@@ -1,0 +1,838 @@
+text,label,prediction,confidence
+The suggestion box was utilized.,1,0,0.5140350387379218
+Targets were hit.,1,0,0.5022552754519235
+The safety inspection resulted in violations.,1,1,0.5176552415911687
+The work continues.,1,1,0.5012046075402611
+Procrastination can significantly hinder progress and productivity.,1,1,0.507766069225602
+They changed the extra hours rules.,0,0,0.5052229054388704
+Benchmarks were useful,1,0,0.5119600127511379
+Following a skincare routine keeps the skin healthy.,1,1,0.509535199560726
+This fix is janky as hell.,0,0,0.5187625957530182
+Position is strong.,1,1,0.5096423739840653
+Quality metrics were fabricated.,1,1,0.5094881885149861
+Drinking coffee at night keeps me up all night.,0,0,0.5121249027009777
+The shift to remote work has led to significant changes in workplace dynamics.,1,1,0.5063194247545986
+The procurement process is underway.,1,1,0.5048741346326803
+Managing time wisely leads to increased productivity.,1,1,0.501812390495934
+The moment arrives.,1,0,0.5145439741678158
+We deserve this.,0,0,0.5073034336826704
+Value is clear.,1,0,0.5061192735302283
+The road beckons.,1,0,0.525547276659126
+They avoided the checks.,0,0,0.5134627755052178
+The concentration deepens.,1,1,0.5077335329078934
+Practicing deep breathing can improve focus and relaxation.,1,1,0.5034358854666149
+Our customers never leave.,0,0,0.5016059820259754
+The performance reviews are annual.,1,1,0.5026651666470714
+Material weaknesses were identified in audits.,1,1,0.513541068676976
+The reputation is solid.,1,1,0.5168513288076795
+We keep the run going.,0,0,0.5215981079540876
+The new policy takes effect Monday.,1,1,0.5039559373310143
+The relationships are solid.,1,1,0.5039978367454365
+The higher-ups want more numbers—ugh.,0,1,0.5015497307027136
+The dedication is noted.,1,1,0.5031933946313994
+Brand is strong.,1,1,0.5066769028111775
+The overtime policy was revised.,1,1,0.5119865811785779
+Having a hobby outside of work enriches life.,1,0,0.5083864065094094
+The reputation is solid.,1,1,0.5168513288076795
+The spirit stays strong.,1,0,0.5076641993460119
+We did something huge.,0,0,0.5128310160024289
+Let's hit it.,0,0,0.5182984966995147
+We've got everything going for us.,0,0,0.5070373834792392
+Someone got extra money for good work.,0,0,0.5030539699089107
+Everything runs smoother now.,0,1,0.5009845333488171
+The subpoena requests all communications.,1,1,0.5109587640246841
+We've got more money in the bank.,0,0,0.5065145531151957
+The books balanced perfectly.,0,0,0.50598369282721
+The copyright infringement was inadvertent.,1,1,0.5117022478630003
+Hires regretted.,1,0,0.5139006309306332
+Making eye contact during conversations improves communication.,1,0,0.504860575861008
+Don’t even try hacking this.,0,0,0.5159647567543015
+Industry awards were won.,1,1,0.5033334893797067
+Suddenly it's obvious.,0,0,0.5105060370445816
+The push is on.,1,0,0.513587794106683
+The nondisclosure agreement is enforceable.,1,1,0.5199595961069648
+Areas were labeled correctly.,0,1,0.5042614798994992
+Logistics delivered perfectly.,1,1,0.5064524108224323
+The spotlight shines.,1,0,0.5075991709307235
+Quality shone through consistently.,1,1,0.51036309288383
+"Some online trends are fun, but some are dumb.",0,0,0.5065217491529125
+Pick certain days to clean so it’s not all at once.,0,0,0.5025617554141009
+Storing emergency cash at home is a wise precaution.,1,0,0.5044015701017873
+The news said nice things about us.,0,0,0.5081341987097211
+Everyone else has to step up.,0,0,0.5007714772062675
+Reducing unnecessary commitments frees up valuable time.,1,0,0.5046974528533181
+Risk was mitigated.,1,1,0.5168439611074817
+Yield percentages fell below targets.,1,1,0.5177459949926808
+We've got lots of new ideas coming.,0,0,0.5101026105302296
+Knock out similar tasks in one go—it’s way faster.,0,0,0.5014428456310964
+Our nerds invented cool new stuff.,0,0,0.5058426283662627
+The heuristic approach lacks rigor.,1,1,0.5123496116366926
+Systems worked,0,0,0.5210926447256408
+Full speed ahead.,0,0,0.5069326338623397
+It keeps getting better.,0,0,0.511621065818709
+The effort commences.,1,0,0.5041412062194616
+A balanced diet contributes to overall well-being.,1,1,0.5097686733230464
+Proper food storage helps prevent contamination and spoilage.,1,1,0.5136190038216838
+We never settle.,0,0,0.504368387768142
+The benchmark results are skewed.,1,1,0.5176448535413208
+The opportunity is enormous.,1,0,0.5042565032727709
+Want the replay? Just ask.,0,0,0.5142089901262015
+The work continues.,1,1,0.5012046075402611
+Nobody stole our special sauce.,0,0,0.5038550477247137
+Destination nears.,1,0,0.5028069022472057
+The dividend was increased.,1,1,0.5074770240799751
+Hackers got into our systems.,0,1,0.5108158253857202
+The vibe is electric.,1,0,0.5068400705095385
+Everyone got their bonus money.,0,0,0.506718082230725
+Things stayed up,0,0,0.5301782989421092
+Effective scheduling helps optimize time usage.,1,1,0.5002378523170345
+Eating too much makes you gain weight fast.,0,1,0.5078872157765878
+The gears mesh.,1,1,0.5088939523248518
+The foundation is poured.,1,1,0.5086525086670769
+People know and trust us.,0,0,0.5025414903626588
+Everyone sees it's worth it.,0,0,0.5084027931663934
+Reporting inappropriate content helps maintain platform safety.,1,1,0.5028474619111448
+Workers got screwed.,0,0,0.5103931206826237
+The recycling program was implemented.,1,1,0.5046964098640808
+The culture improved.,1,0,0.5063402830368117
+People are getting laid off.,0,1,0.5006397065010069
+Exogenous factors influenced outcomes.,1,1,0.5001922547722483
+Using my time well means I get more done.,0,0,0.5017672405560951
+"If I put my phone down early, I sleep better.",0,0,0.5093818619009256
+Someone erased their tracks.,0,0,0.5071195618107904
+"Factories got wrecked, now shortages.",0,0,0.5028486092633294
+The method is proven.,1,0,0.5010347053539463
+We're gonna kill it.,0,0,0.5196974803296458
+The acquisition discussions have stalled.,1,1,0.5106749701898808
+They’ll charge you again if you don’t opt out.,0,0,0.5017925573081361
+A strong bio creates a good first impression.,1,0,0.5010486974835724
+This could rewrite the rules.,0,0,0.5192062631174972
+Your adherence to the protocol is mandatory.,1,1,0.5154899544879853
+They'll give more money to your causes.,0,0,0.5009833859638486
+Quality dropped,0,0,0.5106309721414272
+On we go.,0,0,0.5156037637253644
+Eyes on the prize.,0,0,0.5101359605643667
+The expertise is world-class.,1,1,0.5179287483658027
+Money's stuck.,0,0,0.503958723673605
+Disaster recovery plans were untested.,1,1,0.5108776807847148
+Hackers can’t abuse this flaw anymore.,0,1,0.512567212219772
+The app tracks where you are—creepy but useful.,0,0,0.510503996486642
+The moment is here.,1,0,0.5133136771562917
+Employers should foster a culture of trust to ensure remote employees feel valued.,1,1,0.5067674705966337
+Recognition comes.,1,0,0.5024524134428291
+The spotlight shines.,1,0,0.5075991709307235
+"If you leave dishes in the sink, they’ll start smelling bad.",0,1,0.5073879646222239
+Nobody can argue we won.,0,0,0.5048026902556225
+Watch what happens next.,0,0,0.5133754282545072
+Due dates kept us focused.,0,0,0.5113507226835491
+The benefits accumulate.,1,1,0.5012176012765854
+New people made us better.,0,0,0.503305208222239
+"The more colors on your plate, the healthier your meal.",0,0,0.5016127619840752
+These numbers are all over the place.,0,0,0.514870697205477
+The deal is sweet.,1,0,0.5141419143522422
+People are unhappier at work now.,0,0,0.5081779815692814
+Performance is unparalleled.,1,1,0.5091432570180019
+Congratulations on your recent promotion.,1,0,0.5032884600452419
+Prioritizing mental well-being contributes to overall time efficiency.,1,1,0.5018536661576664
+The energy was palpable.,1,0,0.5015908127989046
+Here's when we get days off.,0,0,0.5118080174147949
+People recognize us now.,0,0,0.5162451587071473
+Setting goals provides motivation and direction.,1,1,0.5044507400802589
+Performance reviews are annual.,1,1,0.5028036836977067
+We don't know how this hurts nature.,0,0,0.5104882826893267
+Looking at people when you talk to them makes a difference.,0,0,0.5124340642163817
+Washing curtains periodically removes accumulated dust and allergens.,1,1,0.5090689099904496
+Everyone's talking about it.,0,0,0.5109624875248269
+We've got the best people.,0,0,0.5025752704106456
+Decluttering spaces reduces stress and increases productivity.,1,0,0.5005142835949209
+The realignment made sense.,1,0,0.5020287819625953
+It's going viral.,0,0,0.5094873543504261
+The influence grows.,1,0,0.5072268280890015
+We're acting like we already won.,0,0,0.5048832532750929
+The effort persists.,1,0,0.5025744806700468
+Engaging in online discussions can expand knowledge.,1,0,0.5143921393647476
+A good schedule keeps you from wasting time.,0,0,0.5061886875232842
+People actually like coming to work.,0,0,0.5135042748402567
+Loan terms were improved.,1,1,0.5024125090776309
+The machine hums.,1,0,0.5130442577601159
+Legumes are an excellent source of plant-based protein.,1,1,0.5059774352349017
+Economies of scale are achievable.,1,1,0.5022693120584055
+Practicing gratitude can improve overall happiness.,1,0,0.5058008213765159
+Kindly refrain from sharing confidential information externally.,1,0,0.5007497662646546
+Spending made sense,0,0,0.5240625979019703
+Don’t be late with your timesheets—Friday at 12!,0,0,0.5051923315730361
+Thanks for working with us on this!,0,0,0.5051365177783992
+Nothing's missing here.,0,0,0.5116250571718864
+Infrastructure vulnerabilities were exploited maliciously.,1,1,0.5148587421487383
+We can pivot fast.,0,0,0.5108215298585141
+The success is shared.,1,0,0.5059146953193043
+Targets were hit consistently.,1,1,0.5031221997231812
+Washing produce before consumption removes pesticides.,1,1,0.5038683834684383
+The direction is certain.,1,0,0.5051175952935338
+Sharing personal information on social media can pose security risks.,1,1,0.502303420103155
+Too much junk food can mess you up.,0,1,0.5036881195160607
+The firmware update patches critical vulnerabilities.,1,1,0.5201001860997891
+The feedback is glowing.,1,1,0.501617187582779
+We're all in this together.,0,0,0.5090766709392035
+The IT help desk was expanded.,1,1,0.5073103910387904
+The safety inspection resulted in violations.,1,1,0.5176552415911687
+You need online networking to grow your career while working remotely.,0,1,0.5018352187711435
+Sedentary lifestyles contribute to health risks.,1,1,0.5084834748426209
+The engine purrs.,1,0,0.5131765039863199
+Success is guaranteed.,0,1,0.5007883601808205
+Our struggle motivates others.,0,0,0.5035674562657545
+A bunch of people are suing together.,0,0,0.5011970228929606
+Standards have slipped across departments.,1,1,0.5213776657394876
+We dodged a bullet.,0,0,0.5113378844947561
+I stash an extra key so I don’t get locked out.,0,0,0.5069278962034269
+Risk assessments were delayed yet again.,1,1,0.5111678441094806
+The experience is deep.,1,1,0.5011531094134916
+Values were demonstrated.,1,1,0.5001761913226633
+Nobody remembers.,0,0,0.5118804410986877
+It’s gonna rain all weekend—ugh.,0,0,0.5181131339193232
+No take-backs on train tickets.,0,0,0.5006608512129724
+The story grows.,1,0,0.5074326284908801
+The client hated our work.,0,0,0.5013555106094696
+Technical debt is mounting.,1,1,0.5116607856739822
+Tomorrow looks amazing.,0,0,0.5225414022176806
+Sorting laundry by fabric type preserves clothing quality.,1,1,0.5012856693542718
+The milestone is historic.,1,1,0.5134483020658878
+The window appears.,1,0,0.504140818815845
+Gotta clean up or the house turns into a mess.,0,0,0.5165039673193934
+Airing out rooms improves ventilation and indoor air quality.,1,1,0.504695784070519
+Xenograft rejection rates are declining.,1,1,0.5184667415049652
+The point lands.,1,0,0.5101650356433431
+Controls worked,1,0,0.5218078630862119
+We post more online now.,0,0,0.5147022529128154
+Expertise is world-class.,1,1,0.5098966843772526
+We're not done yet.,0,0,0.5053187390565596
+They’re buying us—just waiting on the gov’s OK.,0,0,0.50723399404871
+They'll give more money to your causes.,0,0,0.5009833859638486
+Financial controls were weak,1,1,0.5021232536956192
+Contracts breached.,1,1,0.5086909272022053
+Reasons made total sense.,0,0,0.5130704659182054
+I ignore posts that sound too fake to be true.,0,0,0.5051758228612895
+Scheduling appointments in advance prevents last-minute stress.,1,0,0.5000116527080515
+Fish like salmon give your body healthy fats.,0,1,0.5055352572167985
+Everything ran like clockwork.,0,0,0.5001362413134236
+The employee survey results were positive.,1,1,0.5080911903828745
+Compliance violations were noted,1,0,0.5030856038816472
+Reviewing schedules regularly ensures alignment with priorities.,1,1,0.5098511046059446
+Everyone knows we're the best.,0,0,0.5051011163302022
+The framework holds.,1,0,0.5050411602256956
+Liquidity ratios have deteriorated sharply.,1,1,0.5157237045537276
+Things keep getting better.,0,0,0.5087575598036732
+We got better terms on what we owe.,0,0,0.5046033452609627
+Jump through now.,0,0,0.5086816763739151
+People like it.,0,0,0.5207219124472401
+The apprenticeship pipeline was created.,1,1,0.5038468078713791
+Expectations are high.,0,1,0.5136962086951434
+We've become something new.,0,0,0.511426902578722
+We delivered,0,0,0.5223863563060342
+Direction is certain.,1,1,0.5042927700481659
+The compliance training is mandatory.,1,1,0.5157154276972009
+Please find attached the document for your review at your earliest convenience.,1,0,0.5144428802979719
+The energy is boundless.,1,0,0.5050880344689587
+People think we're smart now.,0,0,0.5089164161479355
+We're acting like we already won.,0,0,0.5048832532750929
+People with money trust us more.,0,0,0.5054234523322979
+We know everything about this.,0,0,0.5137712389961053
+The adventure persists.,1,0,0.5119695142480933
+The plan worked.,1,1,0.5010791702202286
+The move is made.,1,0,0.5040943005455838
+We didn't screw anything up.,0,0,0.5039031159773288
+Practicing mindfulness reduces stress levels.,1,1,0.500219643101869
+Critics are raving.,0,0,0.5082253694089294
+You gotta wash your clothes often or they’ll stink.,0,0,0.5089581260687059
+Your security clearance has been suspended.,1,1,0.517646252505943
+Your expense report contains irregularities.,1,1,0.5066075650457793
+Omega-3 fatty acids are essential for brain health.,1,1,0.5045382922281882
+Targets were hit,1,0,0.5248652300655088
+Investor confidence grew.,1,1,0.5112303380141797
+We're going for it.,0,0,0.5077647582397116
+The guarantee is ironclad.,1,1,0.5164043269697757
+Cleaning pet hair frequently prevents allergies and mess.,1,0,0.5035486221517887
+Key performance indicators show improvement,1,0,0.5075378369067901
+Systems crashed when we needed them most.,0,0,0.5008452824646057
+Mixing darks and whites is a disaster.,0,1,0.5008371315525042
+The path becomes clear.,0,0,0.5100056580901696
+I clean up my posts so I don’t look bad later.,0,0,0.5087119612694894
+The truth emerges.,1,0,0.5116744277050626
+Payoff comes.,1,0,0.5072582629421325
+The insurance claim was denied.,1,1,0.5156461459021947
+The discrepancy was attributed to human error.,1,1,0.5055269135876785
+The variance exceeds acceptable thresholds.,1,1,0.5220059952761903
+One weirdo ruined the data.,0,0,0.5050679199762411
+We're affecting more people.,0,0,0.512255016762339
+We're gonna make bank.,0,0,0.5148142715705872
+Oversharing online can be risky.,0,0,0.5005608496697918
+Structured breaks can help refresh focus and creativity.,1,0,0.5052691982499965
+The work was straight-up bad.,0,0,0.50173350474061
+Using time-tracking tools can provide insights into productivity.,1,0,0.5082293767359781
+The potential is unlimited.,1,0,0.5023758381607691
+We weren't watching spending,0,0,0.5124095520434474
+Key personnel departed abruptly.,1,1,0.5079831699815504
+No new hires—period.,0,0,0.5045293075667806
+Look what we got.,0,0,0.5257056314587306
+The cafeteria options were diversified.,1,0,0.501217452265857
+We trust the process.,0,0,0.5075335910405088
+The door opens.,1,1,0.5008727899269666
+The reality sets in.,1,0,0.5084111801483936
+Spinach and kale are packed with good stuff for your body.,0,0,0.5003337263565398
+Taking short breaks during work enhances concentration.,1,1,0.5057292010173576
+Realignment made sense.,1,0,0.5040853604470616
+Expenditure was controlled,1,0,0.5048257998139946
+Working from home can feel pretty lonely sometimes.,0,0,0.5119816070498895
+Doc said drink more water.,0,0,0.511333312189566
+The values were demonstrated.,1,1,0.5011263470670495
+The hunger is real.,0,0,0.5100145058322599
+The bar is raised.,1,1,0.5089829583087737
+We made way more than planned.,0,0,0.5114552148543171
+Our reputation spreads.,0,0,0.5017688945643053
+Greatness is expected.,1,0,0.5003770589113721
+Record is broken.,1,0,0.503797845517298
+"If I don’t plan ahead, I end up rushing at the last second.",0,0,0.5068861213207642
+"We’re making money, but not for long.",0,0,0.5102873378969041
+Having a pet means making sure they’re happy and healthy.,0,1,0.5010751618264712
+Businesses are using cloud tech to make remote work smoother.,0,1,0.502792642283078
+I can talk to anyone anywhere thanks to social media.,0,0,0.5085338559756599
+We belong here.,0,0,0.5132979824549518
+Checking the expiration date prevents food waste.,1,1,0.5022655272412978
+Practicing mindfulness can improve time awareness.,1,0,0.5073008116376597
+Our test model broke immediately.,0,0,0.5047572607674752
+Method is creative.,1,0,0.5031409893503446
+Verifying information before sharing prevents misinformation.,1,1,0.500603139107938
+That awkward retreat actually helped.,0,0,0.5118733074698312
+Standards were set,0,1,0.5004807113120009
+The workaround is inelegant.,1,1,0.502783478353888
+The foundation is set.,1,1,0.501502896789543
+Targets drove us,0,0,0.5258956206682862
+Having a set work spot at home helps you focus better.,0,0,0.5002303570345973
+Opponents concede.,1,0,0.5006528791054929
+The sacrifice is valued.,1,1,0.5043874150921601
+The numbers don't lie.,0,0,0.5095461032392865
+Bringing my own food is cheaper and better for me.,0,0,0.5060711797300765
+A quick walk every day is good for me.,0,0,0.5166352065708435
+We keep pushing.,0,0,0.5086462222587994
+Jurisdictional complications arose during implementation.,1,1,0.507141476960954
+The communication workshop was valuable.,1,1,0.5011779644152973
+The future is now.,1,0,0.507094264750959
+Your brain fights itself when choosing.,0,0,0.5038309837710544
+Using reusable bags helps reduce environmental waste.,1,0,0.5015777893147796
+The position is dominant.,1,1,0.5112336444026179
+Our position is safe.,0,0,0.5002026557811391
+Everything points to this.,0,0,0.5197297655836101
+The finish line approaches.,1,1,0.5060981915344467
+The acquisition terms are being renegotiated,1,1,0.5073419002285557
+The numbers look good.,0,0,0.5133337049865678
+The capability is proven.,1,1,0.5027442298946189
+The hype is real.,0,0,0.5036723251409214
+The adventure persists.,1,0,0.5119695142480933
+The contribution is acknowledged.,1,1,0.5015667327625026
+We’re out of cash—time to cut costs.,0,0,0.5045865083708682
+Excessive notifications can be distracting.,1,1,0.506700025275021
+We own this market.,0,0,0.5069055636372819
+We've got everything going for us.,0,0,0.5070373834792392
+We’re running out of stock.,0,0,0.5061498163123517
+The foundation is poured.,1,1,0.5086525086670769
+Logistics worked,1,0,0.524132366618439
+Fake pills worked because patients believed.,0,1,0.5057698758083057
+The hustle doesn't stop.,1,0,0.5152026181195984
+The opportunity knocks.,1,0,0.5091821657802469
+Effective communication prevents wasted time in misunderstandings.,1,1,0.5107719023403879
+Nothing can get in our way.,0,0,0.5053698739990792
+Value was added at every stage.,1,1,0.5002559423223111
+I am writing to formally invite you to my wedding.,1,1,0.5056774858165698
+Our position is safe.,0,0,0.5002026557811391
+The search continues.,0,0,0.5092605490204329
+Everyone's pumped.,0,0,0.5137744849844269
+Replacing sugary drinks with water can promote better hydration.,1,1,0.5041462722662957
+Nobody comes close to us.,0,0,0.5045848395811942
+Now there's yoga at lunch.,0,0,0.5149574787937773
+The pressure builds.,1,1,0.5121998707618274
+Fancy lights help you see in the dark.,0,0,0.5050891966391464
+The strategy is sound.,1,1,0.5119631402040683
+It spies on you to get smarter.,0,0,0.5093530829624083
+Working from home is way more common now because tech has improved a lot.,0,0,0.5010679049942988
+They made the 401k better.,0,0,0.5035636715632845
+We're late filing the money reports again.,0,0,0.5037974879100605
+We did what we said we would.,0,1,0.5015477339662711
+Nothing will stop us.,0,0,0.5045543394519636
+Others will follow our lead.,0,0,0.5014651524807615
+On we go.,0,0,0.5156037637253644
+Nuts and dried fruits are excellent snacks with high nutritional value.,1,1,0.5066790481956244
+"Hurry up and deal with this, thanks!",0,0,0.5158873642163417
+We got the gold.,0,0,0.5153666159141439
+The yacht’s crew is unionized.,1,1,0.5116971544562032
+The journey continues.,1,0,0.5080597869289444
+The IPO was oversubscribed significantly.,1,1,0.5196158291474041
+Winning feels amazing.,0,0,0.5093320349727721
+No more cigarettes at work.,0,0,0.5045337775479465
+The prototype failed stress testing catastrophically.,1,1,0.5281387066128878
+We spent too much,0,0,0.5201342991501763
+The idea spreads.,1,0,0.5063488647236608
+The story continues.,0,0,0.505000960947089
+Our code is a ticking time bomb.,0,0,0.5034388357570887
+Needs decreased,1,0,0.5331749074692917
+Workforce morale declined,1,0,0.50709882358775
+Shipping is still messed up,0,0,0.5155950848044046
+The indemnity clause protects both parties.,1,1,0.5095963017514002
+The culture improved.,1,0,0.5063402830368117
+Maintaining a healthy diet reduces the risk of chronic diseases.,1,1,0.5065574015317457
+Jump through now.,0,0,0.5086816763739151
+Liquidity ratios deteriorated,1,1,0.5050748036044875
+The value compounds.,1,0,0.5017630086790572
+Sustainability metrics were tracked.,1,0,0.5093562409027926
+"We’re running out of cash, fast.",0,0,0.5117150111553213
+The manufacturing defect rate is unacceptable.,1,1,0.5272852053808589
+The values were demonstrated.,1,1,0.5011263470670495
+The engine purrs.,1,0,0.5131765039863199
+Capital expenditures were deferred,1,0,0.5019051340412062
+The firmware is incompatible with legacy hardware.,1,1,0.520565493832856
+Using the correct detergent helps preserve clothing quality.,1,1,0.5040562157077695
+Using the stairs helps me get in some exercise.,0,0,0.5107752535450368
+Keeping company info safe while working remotely is super important.,0,0,0.5007697188734231
+Trade secrets were protected.,1,1,0.511695694941527
+It doesn't feel like a prison anymore.,0,0,0.5062516053881909
+Stocks are wild right now.,0,0,0.508659122799846
+The inspectors found some shady stuff.,0,1,0.5074505357191497
+We can't get what we need,0,0,0.5133006925475695
+The mentorship initiative launched.,1,0,0.5073524181768009
+Laundry should be done frequently to maintain hygiene and comfort.,1,0,0.50095088665289
+Your order’s finally on the way.,0,0,0.500174373381221
+Everyone was pumped.,0,0,0.5202629987214356
+The passion burns.,1,0,0.5023650797642021
+New version broke.,0,0,0.5073830483119185
+More people hear.,0,0,0.5133141387647574
+The lightbulb goes off.,0,0,0.5110061268557129
+They stole our people.,0,0,0.5028377168667065
+The way is open.,0,0,0.5085165011696349
+Donating unused items helps those in need.,1,0,0.5051200239282394
+The champagne flows.,1,0,0.5112329592951844
+We're keeping it going.,0,0,0.5073578857195646
+The software update contains critical fixes.,1,1,0.5178230555879084
+The implementation is perfect.,1,1,0.5121784854113187
+Initiatives launched,1,0,0.5131783802285242
+The influence grows.,1,0,0.5072268280890015
+Verifying information before sharing prevents misinformation.,1,1,0.500603139107938
+It's all adding up.,0,0,0.5077099946884759
+You get judged once a year.,0,0,0.5014605033582633
+We own this now.,0,0,0.511008688613275
+Please ensure all necessary documents are submitted by Friday.,1,0,0.5009271491868355
+They copied us.,0,0,0.5081343923735466
+The benchmark is reset.,1,1,0.5074347141923262
+Leave some extra time between tasks in case things take longer.,0,0,0.5056414147272654
+Expenditure decreased,1,0,0.5094624187640264
+We collected lots of stuff for charity.,0,0,0.5071019373023962
+We're ready to build.,0,0,0.5077507545201334
+The morale was high.,1,0,0.5005721596366186
+The whistleblower complaint was substantiated.,1,1,0.5210197585259253
+Projects started smoothly.,0,0,0.5004684625685355
+We can talk about it after breakfast.,0,0,0.5126394220408328
+Network expands.,1,0,0.5010720773003257
+My glasses keep my eyes from getting tired.,0,0,0.5066201245267258
+Drinking a glass of water first thing in the morning hydrates the body.,1,1,0.510838047493601
+Let others help you so you don’t have to do everything.,0,0,0.5038481935973123
+This is how we'll attack.,0,0,0.5077832610079548
+Every team needs to justify their spending again.,0,0,0.5036594214289982
+The hustle doesn't stop.,1,0,0.5152026181195984
+I am following up regarding your inquiry from last week.,1,0,0.5111601589435764
+The hunger is real.,0,0,0.5100145058322599
+Engaging with constructive criticism can enhance content quality.,1,0,0.5075280490660435
+"Due to unforeseen circumstances, the event has been postponed.",1,1,0.504830090948292
+It actually happened like we wanted.,0,0,0.5056449756511332
+The clarity comes.,1,0,0.5124984270003051
+Things slipped through,0,0,0.5205342542532113
+Your test results look better!,0,0,0.5054034573181083
+People think better of us now.,0,0,0.5042647728167203
+The concept takes shape.,1,0,0.5024240125049781
+You get more time off for babies.,0,0,0.5048954710588529
+The growth is sustainable.,1,1,0.5090186052321412
+The absenteeism was reduced.,1,1,0.5124896408047601
+Raises frozen.,1,0,0.5093641357504861
+The controls were effective.,1,1,0.5168023595114679
+The client’s freaking out about deadlines.,0,0,0.5019801453541727
+Streak extends.,1,1,0.5013399986133753
+You still can't talk about this.,0,0,0.5091401884049284
+The wheels turn.,1,0,0.507678918227464
+The discrepancy in the data warrants further investigation.,1,1,0.5123098348376882
+The intellectual property was infringed.,1,1,0.5219826457221155
+The change is transformative.,1,1,0.503363677778204
+Vision was realized.,1,1,0.5024749434515344
+They changed the requirements last second.,0,0,0.5076753725871967
+Our whole company is worth more now.,0,0,0.5013288526241937
+Value increased,1,0,0.5120378115872345
+Everyone's screaming with joy.,0,0,0.517531194184907
+Too much fake sugar might not be great for you.,0,1,0.5018449938004919
+We know everything about this.,0,0,0.5137712389961053
+We're gonna make bank.,0,0,0.5148142715705872
+Expenditure was controlled tightly.,1,1,0.5117408206600765
+Social media allows businesses to connect with customers directly.,1,0,0.5001358389821011
+The idea spreads.,1,0,0.5063488647236608
+We wrote up what went wrong.,0,0,0.5160409874323123
+I try to swap chips for something healthier.,0,0,0.5007837110300181
+Decisions were right,0,0,0.5186379879758021
+The plagiarism detection software flagged your submission.,1,1,0.5038716317269708
+Hiring succeeded,1,0,0.5159112861691101
+Operational costs have ballooned unexpectedly.,1,1,0.5091566933642169
+Working from home has totally changed how we do jobs.,0,0,0.5009200115549775
+The numbers don't lie.,0,0,0.5095461032392865
+Pig parts worked in a human.,0,0,0.5057225112734012
+The method is set.,1,0,0.5055262282180069
+We avoided disaster.,0,0,0.5025031357498474
+People are making it bigger.,0,0,0.513176846475004
+We own this now.,0,0,0.511008688613275
+Cost savings were realized.,1,1,0.5040942111446115
+Everyone voted yes—shocker.,0,0,0.5127728353314882
+We're making our mark.,0,0,0.5014253220096915
+How people act online affects friendships.,0,0,0.5043532642400236
+Forward is the only way.,0,0,0.5131232989637273
+The clinical trial showed promise.,1,1,0.5106303167867168
+Performance peaked this cycle.,1,0,0.5042170180308939
+Old devices can’t run the new update.,0,1,0.5054613265962202
+We convinced them.,0,0,0.5035206391695781
+The latest version is way more secure.,0,1,0.5103708977355593
+We worked out the firing money.,0,0,0.5102293223051003
+The approach is unique.,1,1,0.5000924170006718
+Don’t pile your plate too high—it’s better to eat less.,0,1,0.5002499669582017
+Critics are raving.,0,0,0.5082253694089294
+I set up posts so I don’t forget to upload.,0,0,0.5130129716774905
+The impact widens.,1,1,0.5001559257456778
+This service sucks—I want my money back.,0,0,0.5069733955554182
+The numbers look good.,0,0,0.5133337049865678
+All eyes are on us.,0,0,0.5077431120595299
+One-time costs blew up the budget.,0,1,0.5004570184865411
+The foundation is poured.,1,1,0.5086525086670769
+The answer is clear.,1,0,0.5132087276500188
+The new thing isn't coming out.,0,0,0.5037299745744979
+We dodged a bullet.,0,0,0.5113378844947561
+Relationships solidify.,1,1,0.5062759947607727
+"Sorry, can’t make it this time!",0,0,0.507741056192317
+We bounced back fast.,0,0,0.5162628425790862
+The trademark application was approved.,1,1,0.5207107706371774
+We own this - nobody else can use it.,0,1,0.5027023439731171
+Completing high-priority tasks in the morning can increase efficiency.,1,0,0.5030492166155515
+Fiscal year-end reconciliation remains pending approval.,1,1,0.5079969798305207
+Door opens.,1,0,0.5015323710148318
+Everyone else has to step up.,0,0,0.5007714772062675
+Everyone's in a good mood.,0,0,0.5169343823750984
+The geofencing feature is now active.,1,1,0.5053449919168895
+Everyone's pumped.,0,0,0.5137744849844269
+The gears mesh.,1,1,0.5088939523248518
+Blocking harmful accounts can enhance online safety.,1,0,0.5001691430742593
+People listen to us.,0,0,0.5087142851447206
+Everything else disappears.,0,0,0.5122216432663932
+We can buy our own stock now.,0,0,0.5059932282023601
+A good caption gets more likes.,0,0,0.5067729979138488
+The greatness is expected.,1,0,0.506843333252824
+The proof is in the pudding.,0,0,0.511676363799768
+We’re behind on gov paperwork—again.,0,0,0.5092811800333903
+Ergonomic assessments were completed.,1,0,0.505439662882487
+"Finally, people notice.",0,0,0.5115786054736863
+Professors finally agreed on new courses.,0,0,0.506600160460577
+The concentration deepens.,1,1,0.5077335329078934
+The victory is collective.,1,0,0.5026003185916307
+Everyone loved the results.,0,0,0.5030828621723136
+I always rinse my veggies first.,0,1,0.5008486203151358
+They know what we gave up.,0,0,0.5097185946439388
+Standards were super helpful.,0,0,0.5013350365622057
+We fixed what was broken.,0,0,0.504094687949794
+The wait is over.,1,0,0.5077843783241955
+The arbitration clause is binding.,1,1,0.5182257569896582
+The change takes hold.,1,0,0.5030076439010188
+One weird number ruins the average.,0,0,0.5025698018292545
+It's happening.,0,0,0.5222043882339337
+The diversity initiative launched.,1,0,0.5022514906338551
+We didn't screw anything up.,0,0,0.5039031159773288
+The value is clear.,1,0,0.5080944081904908
+The trade secrets were protected.,1,1,0.5159623601128366
+We're not wasting as much water.,0,0,0.5011604556466385
+The debt was refinanced advantageously.,1,1,0.5090147619827933
+Someone's questioning your spending.,0,0,0.5080612468632237
+The export license was revoked.,1,1,0.5224613517182538
+Cooking meals at home promotes healthier eating habits.,1,1,0.5038921344888704
+Brown bread is way healthier than white bread.,0,1,0.5051360409915593
+The value compounds.,1,0,0.5017630086790572
+The buyout conversation stopped moving.,0,0,0.5044178707041311
+The push is on.,1,0,0.513587794106683
+The money detectives spotted problems.,0,0,0.5000505745409194
+Yield management optimizes revenue.,1,1,0.5090270663354748
+No new employees—we’re broke.,0,0,0.5077361846798327
+The search continues.,0,0,0.5092605490204329
+Conclusion is obvious.,1,0,0.5045147503231021
+The experience is deep.,1,1,0.5011531094134916
+Big things are coming.,0,0,0.5050221780688693
+The vision crystallizes.,1,0,0.5050486398470813
+Too many alerts annoy me.,0,0,0.5145156709815875
+Establishing a routine helps create consistency and structure.,1,1,0.5064022618020204
+I save important numbers just in case something happens.,0,0,0.5124384424475402
+Who can top this?,0,0,0.52576191267638
+Consuming excessive processed foods may lead to health complications.,1,1,0.5113712012019577
+The competition falters.,1,1,0.5016085449992168
+It's getting crazy.,0,0,0.517177494717233
+Good things keep adding up.,0,0,0.5110296592580769
+A book helps me wind down at night.,0,0,0.5113373185417736
+You have to sit through this boring training.,0,0,0.5084584927679744
+We know where we're going.,0,0,0.5125849036001046
+More people listen to us.,0,0,0.5021967150492017
+The acquisition terms were renegotiated at the eleventh hour.,1,1,0.5045621023117243
+Expenditure approval workflows were bypassed.,1,1,0.5051382461306149
+"Fix this ASAP, or I’m out.",0,0,0.5097118469664123
+Unfollowing negative influences can improve mental well-being.,1,0,0.5079145078874969
+Fiscal projections appear overly optimistic.,1,1,0.5013437834810572
+Culture improved.,1,1,0.5000971555697611
+The expectation is exceeded.,1,1,0.5121724986965699
+The tax strategy was optimized.,1,1,0.5110501830475724
+Utilizing multi-platform strategies expands audience reach.,1,0,0.501245630190717
+Oversharing online can be risky.,0,0,0.5005608496697918
+Risks were reduced significantly.,1,1,0.5157384123278528
+The noise fades.,1,0,0.5080421783230401
+Short breaks keep you from feeling exhausted.,0,0,0.5071034569141287
+The way is open.,0,0,0.5085165011696349
+Maintaining good posture prevents long-term back problems.,1,1,0.5104897125712671
+It's all making sense now.,0,0,0.5067599468872543
+The audit was clean and uneventful.,1,1,0.5045801610095995
+We're always getting better.,0,0,0.5050932493347551
+Setting reminders for deadlines prevents last-minute stress.,1,0,0.5008613756718191
+Notice when you work best and plan around that.,0,0,0.5079485037806138
+Too much salt isn’t good for your heart.,0,1,0.5098240545726679
+More people to fix your computer.,0,0,0.5056294208163058
+Think ahead so you don’t have to rush later.,0,0,0.5090369574778852
+We've got great connections.,0,0,0.5049070332488317
+The due diligence period has expired.,1,1,0.5159387806943238
+The standing is secure.,1,0,0.5024420126814765
+People finally see what we did.,0,0,0.5124525599962317
+Confidential documents were leaked.,1,1,0.5101265320019931
+The green certification was achieved.,1,1,0.51233071358131
+The performance reviews are annual.,1,1,0.5026651666470714
+The strategy emerges.,1,0,0.5116539944380587
+Human error caused the outage.,1,0,0.5007190401365711
+"If it’s close, I just walk instead of driving.",0,0,0.5089372115382728
+The solution presents.,1,0,0.5169217904426743
+A quick mop keeps the floors from getting sticky.,0,0,0.5092389050429716
+Things are different now.,0,0,0.5064070591886466
+The challenge is accepted.,1,1,0.5041628412135201
+The method is set.,1,0,0.5055262282180069
+The opponents concede.,1,1,0.5025331161257239
+Resolve is firm.,1,1,0.509776731771564
+Nothing sketchy got through.,0,0,0.5161100871207855
+We're getting known.,0,0,0.5085835516839707
+Expenditures exceeded projections significantly,1,1,0.5044127749044057
+The software update will commence at 10 PM tonight.,1,1,0.505427177183995
+The value is unbeatable.,1,0,0.5064920710669407
+The mind quiets.,1,0,0.5088489649850513
+We can pivot fast.,0,0,0.5108215298585141
+The test comes.,1,0,0.5093006193343621
+Full speed ahead.,0,0,0.5069326338623397
+The timing is ideal.,1,0,0.5127891712242004
+The network expands.,1,1,0.5052710010901909
+We know we've got this.,0,0,0.5159132064720527
+The numbers didn't add up,0,0,0.5066393585436226
+Heads up—the report’s due by Friday!,0,0,0.5006473358829
+We're acting like we already won.,0,0,0.5048832532750929
+The case builds.,1,1,0.5070878287440693
+Availability was good,0,0,0.5353783651629176
+The answer appears.,0,0,0.5088317148345849
+You can feel the excitement.,0,0,0.5155686460438373
+Competitors got our info.,0,0,0.510027762538462
+We can talk about it after 12.,0,0,0.5184781550956079
+We made our numbers.,0,0,0.5142448728496695
+The move is made.,1,0,0.5040943005455838
+Polls and quizzes get more people to comment.,0,0,0.5109629194507647
+This is a total game-changer.,0,0,0.5112330635506661
+Growth accelerated unexpectedly.,1,0,0.5037625615845419
+Promise is fulfilled.,1,0,0.5015692659349928
+The opportunity knocks.,1,0,0.5091821657802469
+The new version patches major problems.,0,1,0.5122889262667917
+Winning feels amazing.,0,0,0.5093320349727721
+The environment was positive.,1,0,0.5026723786036191
+Check the label so you know what you're eating.,0,0,0.5035557743481545
+We built something lasting.,0,0,0.5017499554229433
+We won't quit.,0,0,0.5019610125603912
+Sorry if this messes things up for you.,0,0,0.506497434579847
+Overeating can contribute to weight gain and other health risks.,1,1,0.5058370560922218
+We're beating more competitors.,0,1,0.5019663470938166
+We won't quit.,0,0,0.5019610125603912
+A good breakfast keeps me from getting hungry too fast.,0,0,0.5100805509003782
+The service rendered was subpar.,1,1,0.5175925261129387
+They admit we're better.,0,0,0.508209071941571
+A well-planned grocery list reduces unnecessary spending.,1,0,0.501949985869774
+Way fewer people quit.,0,0,0.5126459892514735
+There's no doubt about our path.,0,0,0.5035894790538925
+Your body needs protein to fix itself.,0,1,0.5108620717483666
+The word gets out.,1,0,0.5189680729499759
+Unauthorized access to this network is prohibited.,1,1,0.5061755616071998
+You gotta use 2FA—no way around it.,0,0,0.5025595351993154
+Look how far we've come.,0,0,0.5103945058917718
+Skip useless meetings and use that time for real work.,0,0,0.5064325508723044
+"If you skip breakfast, you’ll feel sluggish all day.",0,1,0.5087148363202009
+A cleaning plan keeps chores from piling up.,0,0,0.5027406239220938
+Social media marketing enhances brand visibility.,1,0,0.5012573871332395
+Companies should teach workers how to be better at remote jobs.,0,0,0.5024737364870363
+Our way works.,0,0,0.508465047401074
+Determination is strong.,1,1,0.5101207527216521
+They stole our ideas.,0,1,0.5007757836315428
+The forensic audit uncovered discrepancies.,1,1,0.520848993073312
+I’m prioritizing my mental well-being.,1,0,0.5021169506177613
+Online groups help me find people who get me.,0,0,0.5079221204711611
+I keep a little cash at home just in case.,0,0,0.5133338092205169
+They're still looking at shady stock moves.,0,1,0.5027336801890737
+People don't totally hate working here.,0,0,0.5105838311924639
+Taking the stairs instead of the elevator increases daily activity.,1,0,0.5012492213482121
+We got way better fast.,0,0,0.5182864131515948
+The work starts.,1,0,0.5006743069375428
+Having a set routine makes life easier.,0,0,0.5138959555812215
+The standing is secure.,1,0,0.5024420126814765
+The path clears.,1,0,0.5011693515915835
+Qualitative insights emerged.,1,0,0.5076948289062063
+An arbitration hearing was scheduled.,1,1,0.5086667499041407
+We're on our way up.,0,0,0.5035702873421382
+I use reminders so I don’t forget stuff.,0,0,0.5059404260078808
+The innovation pipeline was filled.,1,1,0.501795492799099
+People are talking about us.,0,0,0.5180314631837037
+Planning your meals helps you eat better.,0,0,0.502486610773527
+You’ll get paid in about a week.,0,0,0.5091060761064667
+We don't know how this hurts nature.,0,0,0.5104882826893267
+Check what you did each day to stay on track.,0,0,0.5073747650707203
+They made it easier to complain.,0,0,0.5129423877566291
+Blocking harmful accounts can enhance online safety.,1,0,0.5001691430742593
+Areas were right,0,0,0.5324538600488015
+The z-score indicates statistical significance.,1,1,0.5058788630111866
+They're counting how much we waste.,0,0,0.504796089649427
+We convinced them.,0,0,0.5035206391695781
+Customer satisfaction increased.,1,1,0.511047621299393
+The reputation scores improved.,1,1,0.5074569119988123
+I’m trying not to lose it.,0,0,0.5100648514504893
+The liquidity ratios met targets.,1,1,0.5083044878519348
+Identifying time-wasting activities allows for better productivity.,1,0,0.5043467678254976
+The rebirth succeeds.,1,1,0.5075471182177161
+It actually happened like we wanted.,0,0,0.5056449756511332
+Swap soda for water—it’s way healthier.,0,0,0.5037419097382475
+Ensure your device meets the minimum system requirements.,1,1,0.5027753127698795
+I hope this email finds you well.,1,0,0.5120638139014525
+The transformation completes.,1,1,0.5065606643244772
+The proof is in the pudding.,0,0,0.511676363799768
+Prioritizing tasks ensures that essential activities are completed first.,1,1,0.5072674103246443
+The innovation is disruptive.,1,1,0.5063925776328795
+Jump through now.,0,0,0.5086816763739151
+The dress code was relaxed.,1,0,0.5211666604861643
+Someone hacked into our systems.,0,1,0.5077855105379069
+Figure out what’s wasting your time and cut it out.,0,0,0.5044035518025726
+This changes what's possible.,0,0,0.5046357078203573
+Managing finances responsibly prevents future financial stress.,1,1,0.5070032069543002
+The answer appears.,0,0,0.5088317148345849
+Ensure your software is updated to the latest version.,1,1,0.5022836168766176
+Applause rings.,1,0,0.5087228507072238
+The effort persists.,1,0,0.5025744806700468
+This doesn't waste time or money.,0,0,0.5093978749997392
+Everyone gets together to hear lies once a month.,0,0,0.5153408612135788
+We've been doing this forever.,0,0,0.5123677650545985
+The achievement is monumental.,1,1,0.5141113764669368
+Innovation is disruptive.,1,1,0.5063233133360245
+The big dream actually happened.,0,0,0.5116290038442797
+We apologize for any inconvenience this may cause.,1,0,0.5058321989751638
+Can y’all keep it down? Some of us sleep!,0,0,0.516850569711634
+Nothing distracts us.,0,0,0.5085052987431681
+It's getting harder.,0,0,0.500609814818331
+Hiring resumed,1,0,0.520189031384193
+We belong here.,0,0,0.5132979824549518
+The rivals retreat.,1,1,0.503419971774484
+Quality impressed all stakeholders.,1,1,0.5047624161020074
+Benchmarking shows competitive disadvantage,1,1,0.5001354813542588
+The saga unfolds.,1,0,0.5029874088514075
+The door opens.,1,1,0.5008727899269666
+"The legal ""stop it"" letter went out.",0,0,0.5006135252019154
+We did better than anyone thought.,0,0,0.5077507992128748
+Eating protein helps you build muscle.,0,1,0.5114580892685113
+The end is in sight.,0,0,0.507631439358766
+A big clean-up every season keeps things in check.,0,1,0.5002737045014695
+Always grinding.,0,0,0.5055742934405786
+The paperless initiative succeeded.,1,1,0.5127536253589339
+The acquisition talks have stalled.,1,1,0.5176318907815112
+Regular maintenance of household appliances prolongs their lifespan.,1,1,0.5095153584174551
+Back to the grind.,0,0,0.5083163310024899
+The promise stands.,1,0,0.5003046691040621
+The new thing isn't coming out anytime soon.,0,0,0.5049412876957615
+Outlook is positive.,1,0,0.502997153861798
+These numbers are pure fantasy.,0,0,0.50655071205997
+A smoothie is a way better snack than candy.,0,0,0.5084818808772856
+We're locked in.,0,0,0.504099500701687
+We're making a difference.,0,1,0.5005442050930653
+The recall affects all 2023 models.,1,1,0.5158708108373862
+Documentation standards weren't met,1,1,0.5104321001091329
+I keep snacks around so I don’t crash midday.,0,0,0.5088498736711501
+Standing is excellent.,1,0,0.5124972654359133
+Attitude is unstoppable.,1,0,0.5033418485586334
+It's really happening.,0,0,0.5182972615595145
+Twist the lens to make pics brighter/darker.,0,0,0.5080001231709229
+The zookeeper reported the capybara’s escape.,1,1,0.5077605869202594
+The internship program improved.,1,1,0.5073657369291197
+Surprise problems came up,0,0,0.5251888007200421
+I look at the weather so I know what to wear.,0,0,0.5127867885979763
+"If I stay patient, things go way better.",0,0,0.5024969966249256
+I plan my posts so my page stays active.,0,0,0.5037206916664199
+We post more online now.,0,0,0.5147022529128154
+We're always getting better.,0,0,0.5050932493347551
+Nothing slows us down.,0,0,0.5087306565371142
+We can pivot fast.,0,0,0.5108215298585141
+Drinking herbal tea before bed promotes relaxation.,1,0,0.5004876552466055
+The advantage is substantial.,1,1,0.5037689985210254
+The concept takes shape.,1,0,0.5024240125049781
+Knowledge grew,1,0,0.511207699652545
+Progress continues.,1,1,0.5021709067303517
+The environmental impact study is incomplete.,1,1,0.5082777029311647
+Please remit payment at your earliest convenience.,1,0,0.5017015868299747
+You can't get better than this.,0,0,0.5166575186531911
+Outside stuff messed with the results.,0,0,0.5032445928990793
+Eyes on the prize.,0,0,0.5101359605643667
+You can wear jeans on Friday—woohoo!,0,0,0.5105621299087142
+The safety protocols were updated.,1,1,0.51038250074052
+The attitude is unstoppable.,1,0,0.5033080095180245
+They gave more time for proposals.,0,0,0.501793287455646
+The pursuit is endless.,1,0,0.5092783497879948
+The IRS is checking our books.,0,0,0.5044335454975275
+There's more to lose.,0,0,0.5118135128752246
+Economists are panicking.,0,1,0.5080925162388717
+Can you let me know if this time works for you?,0,0,0.5215337357070253
+Deadlines missed.,1,0,0.50254327845577
+You have to sit through this boring training.,0,0,0.5084584927679744
+The advantages stack.,1,0,0.5029256903998662
+Going to bed at a reasonable hour ensures proper rest.,1,1,0.5092609959019145
+People aren’t buying as much.,0,0,0.5038589664969033
+The proof is there.,0,0,0.5056065057236988
+We did what we're here to do.,0,0,0.5081872923007388
+Wearing blue light glasses reduces eye strain from screens.,1,0,0.5025771032048162
+Vibe was excellent.,1,0,0.50369986099017
+Doing small tasks immediately prevents clutter.,1,0,0.5041853552989105
+We’ve got backups for our backups.,0,0,0.503127653335148
+The community outreach program expanded.,1,1,0.5052595582674604
+They finally fixed up the workplace.,0,0,0.5025545732424169
+Arguing online is fine if you’re not rude.,0,0,0.5145758802779878
+The performance improvement plan was implemented.,1,1,0.5119195344902359
+Capital expenditures were deferred indefinitely.,1,1,0.5027997201132822
+You can’t run a business here.,0,0,0.5045106230376766
+There it is.,0,0,0.5213402428328441
+Numbers are slightly less terrible.,0,0,0.5115080414022988
+The mission is clear.,1,0,0.500726565207248
+They decided it wasn't actually bad.,0,0,0.5095890326613083
+The trial begins.,1,1,0.5047080913412009
+The quality is unmatched.,1,1,0.5050747887048613
+Clear and consistent communication is key to successful remote collaboration.,1,1,0.5082102339187979
+Market capitalization expanded.,1,1,0.5102529456320538
+Companies check their stats to see what works.,0,0,0.5011838950443688
+Assigning specific cleaning days can help distribute household tasks efficiently.,1,1,0.5048329517040948
+"Whole, unprocessed foods provide superior nutritional benefits.",1,1,0.5130817830551706
+Fewer people want to quit now.,0,0,0.5013757611364623
+I use alerts so I don’t miss due dates.,0,0,0.5049948222820874
+We got better deals on borrowed money.,0,0,0.511041410547038
+This isn't just a fluke.,0,0,0.5065458402160201
+Sacrifice is valued.,1,1,0.5068952539977106
+Big company changes start soon.,0,0,0.5087179646130664
+The paperwork was sloppy,0,0,0.5146875730587394
+Everyone’s obsessed with no-carbs now.,0,0,0.5008907308692454
+The skills training was mandatory.,1,1,0.5087079540734948
+The non-compete clause is enforceable for 12 months.,1,1,0.5139166670628359
+I would like to file a formal complaint about the service.,1,1,0.5083345351729363
+Everyone agreed on the new system.,0,0,0.5033055658344785
+We know how we'll do this.,0,0,0.5115610315183683
+The stock options vested.,1,1,0.5147374189508983

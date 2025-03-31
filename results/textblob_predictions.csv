@@ -1,0 +1,838 @@
+text,label,prediction,confidence
+The suggestion box was utilized.,1,1,0.9999999999999998
+Targets were hit.,1,1,0.9999999999999998
+The safety inspection resulted in violations.,1,1,0.9999999999999998
+The work continues.,1,1,0.9999999999999998
+Procrastination can significantly hinder progress and productivity.,1,1,0.9999999999999998
+They changed the extra hours rules.,0,1,0.9999999999999998
+Benchmarks were useful,1,1,0.9999999999999998
+Following a skincare routine keeps the skin healthy.,1,1,0.9999999999999998
+This fix is janky as hell.,0,1,0.5999999999999999
+Position is strong.,1,1,0.9999999999999998
+Quality metrics were fabricated.,1,1,0.9999999999999998
+Drinking coffee at night keeps me up all night.,0,1,0.9999999999999998
+The shift to remote work has led to significant changes in workplace dynamics.,1,1,0.9999999999999998
+The procurement process is underway.,1,1,0.9999999999999998
+Managing time wisely leads to increased productivity.,1,1,0.9999999999999998
+The moment arrives.,1,1,0.9999999999999998
+We deserve this.,0,1,0.9999999999999998
+Value is clear.,1,1,0.5999999999999999
+The road beckons.,1,1,0.9999999999999998
+They avoided the checks.,0,1,0.9999999999999998
+The concentration deepens.,1,1,0.9999999999999998
+Practicing deep breathing can improve focus and relaxation.,1,1,0.9999999999999998
+Our customers never leave.,0,1,0.9999999999999998
+The performance reviews are annual.,1,1,0.9999999999999998
+Material weaknesses were identified in audits.,1,1,0.9999999999999998
+The reputation is solid.,1,1,0.9999999999999998
+We keep the run going.,0,1,0.5999999999999999
+The new policy takes effect Monday.,1,1,0.9999999999999998
+The relationships are solid.,1,1,0.9999999999999998
+The higher-ups want more numbers—ugh.,0,1,0.9999999999999998
+The dedication is noted.,1,1,0.9999999999999998
+Brand is strong.,1,1,0.9999999999999998
+The overtime policy was revised.,1,1,0.9999999999999998
+Having a hobby outside of work enriches life.,1,1,0.9999999999999998
+The reputation is solid.,1,1,0.9999999999999998
+The spirit stays strong.,1,1,0.9999999999999998
+We did something huge.,0,1,0.9999999999999998
+Let's hit it.,0,0,0.8
+We've got everything going for us.,0,0,0.8
+Someone got extra money for good work.,0,1,0.9999999999999998
+Everything runs smoother now.,0,1,0.9999999999999998
+The subpoena requests all communications.,1,1,0.9999999999999998
+We've got more money in the bank.,0,0,0.8
+The books balanced perfectly.,0,1,0.9999999999999998
+The copyright infringement was inadvertent.,1,1,0.9999999999999998
+Hires regretted.,1,1,0.9999999999999998
+Making eye contact during conversations improves communication.,1,1,0.9999999999999998
+Don’t even try hacking this.,0,1,0.5999999999999999
+Industry awards were won.,1,1,0.9999999999999998
+Suddenly it's obvious.,0,0,0.3999999999999999
+The push is on.,1,1,0.5999999999999999
+The nondisclosure agreement is enforceable.,1,1,0.9999999999999998
+Areas were labeled correctly.,0,1,0.9999999999999998
+Logistics delivered perfectly.,1,1,0.9999999999999998
+The spotlight shines.,1,1,0.9999999999999998
+Quality shone through consistently.,1,1,0.9999999999999998
+"Some online trends are fun, but some are dumb.",0,1,0.5999999999999999
+Pick certain days to clean so it’s not all at once.,0,1,0.5999999999999999
+Storing emergency cash at home is a wise precaution.,1,1,0.9999999999999998
+The news said nice things about us.,0,1,0.5999999999999999
+Everyone else has to step up.,0,1,0.5999999999999999
+Reducing unnecessary commitments frees up valuable time.,1,1,0.9999999999999998
+Risk was mitigated.,1,1,0.9999999999999998
+Yield percentages fell below targets.,1,1,0.9999999999999998
+We've got lots of new ideas coming.,0,0,0.8
+Knock out similar tasks in one go—it’s way faster.,0,1,0.5999999999999999
+Our nerds invented cool new stuff.,0,1,0.9999999999999998
+The heuristic approach lacks rigor.,1,1,0.9999999999999998
+Systems worked,0,1,0.9999999999999998
+Full speed ahead.,0,1,0.9999999999999998
+It keeps getting better.,0,1,0.9999999999999998
+The effort commences.,1,1,0.9999999999999998
+A balanced diet contributes to overall well-being.,1,1,0.9999999999999998
+Proper food storage helps prevent contamination and spoilage.,1,1,0.9999999999999998
+We never settle.,0,1,0.9999999999999998
+The benchmark results are skewed.,1,1,0.9999999999999998
+The opportunity is enormous.,1,1,0.9999999999999998
+Want the replay? Just ask.,0,1,0.5999999999999999
+The work continues.,1,1,0.9999999999999998
+Nobody stole our special sauce.,0,1,0.9999999999999998
+Destination nears.,1,1,0.9999999999999998
+The dividend was increased.,1,1,0.9999999999999998
+Hackers got into our systems.,0,1,0.9999999999999998
+The vibe is electric.,1,1,0.9999999999999998
+Everyone got their bonus money.,0,1,0.9999999999999998
+Things stayed up,0,1,0.9999999999999998
+Effective scheduling helps optimize time usage.,1,1,0.9999999999999998
+Eating too much makes you gain weight fast.,0,1,0.9999999999999998
+The gears mesh.,1,1,0.5999999999999999
+The foundation is poured.,1,1,0.9999999999999998
+People know and trust us.,0,1,0.5999999999999999
+Everyone sees it's worth it.,0,0,0.8
+Reporting inappropriate content helps maintain platform safety.,1,1,0.9999999999999998
+Workers got screwed.,0,1,0.9999999999999998
+The recycling program was implemented.,1,1,0.9999999999999998
+The culture improved.,1,1,0.9999999999999998
+People are getting laid off.,0,1,0.9999999999999998
+Exogenous factors influenced outcomes.,1,1,0.9999999999999998
+Using my time well means I get more done.,0,1,0.5999999999999999
+"If I put my phone down early, I sleep better.",0,1,0.5999999999999999
+Someone erased their tracks.,0,1,0.9999999999999998
+"Factories got wrecked, now shortages.",0,1,0.9999999999999998
+The method is proven.,1,1,0.9999999999999998
+We're gonna kill it.,0,0,0.8
+The acquisition discussions have stalled.,1,1,0.9999999999999998
+They’ll charge you again if you don’t opt out.,0,1,0.5999999999999999
+A strong bio creates a good first impression.,1,1,0.9999999999999998
+This could rewrite the rules.,0,1,0.9999999999999998
+Your adherence to the protocol is mandatory.,1,1,0.9999999999999998
+They'll give more money to your causes.,0,0,0.8
+Quality dropped,0,1,0.9999999999999998
+On we go.,0,1,0.5999999999999999
+Eyes on the prize.,0,1,0.5999999999999999
+The expertise is world-class.,1,1,0.9999999999999998
+Money's stuck.,0,0,0.8
+Disaster recovery plans were untested.,1,1,0.9999999999999998
+Hackers can’t abuse this flaw anymore.,0,1,0.5999999999999999
+The app tracks where you are—creepy but useful.,0,1,0.9999999999999998
+The moment is here.,1,1,0.5999999999999999
+Employers should foster a culture of trust to ensure remote employees feel valued.,1,1,0.9999999999999998
+Recognition comes.,1,1,0.9999999999999998
+The spotlight shines.,1,1,0.9999999999999998
+"If you leave dishes in the sink, they’ll start smelling bad.",0,1,0.5999999999999999
+Nobody can argue we won.,0,1,0.5999999999999999
+Watch what happens next.,0,1,0.9999999999999998
+Due dates kept us focused.,0,1,0.9999999999999998
+The benefits accumulate.,1,1,0.9999999999999998
+New people made us better.,0,1,0.9999999999999998
+"The more colors on your plate, the healthier your meal.",0,1,0.9999999999999998
+These numbers are all over the place.,0,1,0.9999999999999998
+The deal is sweet.,1,1,0.5999999999999999
+People are unhappier at work now.,0,1,0.9999999999999998
+Performance is unparalleled.,1,1,0.9999999999999998
+Congratulations on your recent promotion.,1,1,0.9999999999999998
+Prioritizing mental well-being contributes to overall time efficiency.,1,1,0.9999999999999998
+The energy was palpable.,1,1,0.9999999999999998
+Here's when we get days off.,0,0,0.8
+People recognize us now.,0,1,0.9999999999999998
+Setting goals provides motivation and direction.,1,1,0.9999999999999998
+Performance reviews are annual.,1,1,0.9999999999999998
+We don't know how this hurts nature.,0,0,0.8
+Looking at people when you talk to them makes a difference.,0,1,0.9999999999999998
+Washing curtains periodically removes accumulated dust and allergens.,1,1,0.9999999999999998
+Everyone's talking about it.,0,0,0.3999999999999999
+We've got the best people.,0,0,0.8
+Decluttering spaces reduces stress and increases productivity.,1,1,0.9999999999999998
+The realignment made sense.,1,1,0.9999999999999998
+It's going viral.,0,0,0.8
+The influence grows.,1,1,0.9999999999999998
+We're acting like we already won.,0,0,0.8
+The effort persists.,1,1,0.9999999999999998
+Engaging in online discussions can expand knowledge.,1,1,0.9999999999999998
+A good schedule keeps you from wasting time.,0,1,0.9999999999999998
+People actually like coming to work.,0,1,0.9999999999999998
+Loan terms were improved.,1,1,0.9999999999999998
+The machine hums.,1,1,0.9999999999999998
+Legumes are an excellent source of plant-based protein.,1,1,0.9999999999999998
+Economies of scale are achievable.,1,1,0.9999999999999998
+Practicing gratitude can improve overall happiness.,1,1,0.9999999999999998
+Kindly refrain from sharing confidential information externally.,1,1,0.9999999999999998
+Spending made sense,0,1,0.9999999999999998
+Don’t be late with your timesheets—Friday at 12!,0,1,0.5999999999999999
+Thanks for working with us on this!,0,1,0.5999999999999999
+Nothing's missing here.,0,0,0.3999999999999999
+Infrastructure vulnerabilities were exploited maliciously.,1,1,0.9999999999999998
+We can pivot fast.,0,1,0.5999999999999999
+The success is shared.,1,1,0.9999999999999998
+Targets were hit consistently.,1,1,0.9999999999999998
+Washing produce before consumption removes pesticides.,1,1,0.9999999999999998
+The direction is certain.,1,1,0.9999999999999998
+Sharing personal information on social media can pose security risks.,1,1,0.9999999999999998
+Too much junk food can mess you up.,0,1,0.5999999999999999
+The firmware update patches critical vulnerabilities.,1,1,0.9999999999999998
+The feedback is glowing.,1,1,0.9999999999999998
+We're all in this together.,0,0,0.8
+The IT help desk was expanded.,1,1,0.5999999999999999
+The safety inspection resulted in violations.,1,1,0.9999999999999998
+You need online networking to grow your career while working remotely.,0,1,0.9999999999999998
+Sedentary lifestyles contribute to health risks.,1,1,0.9999999999999998
+The engine purrs.,1,1,0.9999999999999998
+Success is guaranteed.,0,1,0.9999999999999998
+Our struggle motivates others.,0,1,0.9999999999999998
+A bunch of people are suing together.,0,1,0.9999999999999998
+Standards have slipped across departments.,1,1,0.9999999999999998
+We dodged a bullet.,0,1,0.5999999999999999
+I stash an extra key so I don’t get locked out.,0,1,0.5999999999999999
+Risk assessments were delayed yet again.,1,1,0.9999999999999998
+The experience is deep.,1,1,0.9999999999999998
+Values were demonstrated.,1,1,0.9999999999999998
+Nobody remembers.,0,1,0.9999999999999998
+It’s gonna rain all weekend—ugh.,0,1,0.5999999999999999
+No take-backs on train tickets.,0,1,0.9999999999999998
+The story grows.,1,1,0.9999999999999998
+The client hated our work.,0,1,0.9999999999999998
+Technical debt is mounting.,1,1,0.9999999999999998
+Tomorrow looks amazing.,0,1,0.9999999999999998
+Sorting laundry by fabric type preserves clothing quality.,1,1,0.9999999999999998
+The milestone is historic.,1,1,0.9999999999999998
+The window appears.,1,1,0.9999999999999998
+Gotta clean up or the house turns into a mess.,0,1,0.5999999999999999
+Airing out rooms improves ventilation and indoor air quality.,1,1,0.9999999999999998
+Xenograft rejection rates are declining.,1,1,0.9999999999999998
+The point lands.,1,1,0.9999999999999998
+Controls worked,1,1,0.9999999999999998
+We post more online now.,0,1,0.5999999999999999
+Expertise is world-class.,1,1,0.9999999999999998
+We're not done yet.,0,0,0.8
+They’re buying us—just waiting on the gov’s OK.,0,1,0.5999999999999999
+They'll give more money to your causes.,0,0,0.8
+Financial controls were weak,1,1,0.9999999999999998
+Contracts breached.,1,1,0.9999999999999998
+Reasons made total sense.,0,1,0.9999999999999998
+I ignore posts that sound too fake to be true.,0,1,0.5999999999999999
+Scheduling appointments in advance prevents last-minute stress.,1,1,0.9999999999999998
+Fish like salmon give your body healthy fats.,0,1,0.9999999999999998
+Everything ran like clockwork.,0,1,0.9999999999999998
+The employee survey results were positive.,1,1,0.9999999999999998
+Compliance violations were noted,1,1,0.9999999999999998
+Reviewing schedules regularly ensures alignment with priorities.,1,1,0.9999999999999998
+Everyone knows we're the best.,0,0,0.3999999999999999
+The framework holds.,1,1,0.9999999999999998
+Liquidity ratios have deteriorated sharply.,1,1,0.9999999999999998
+Things keep getting better.,0,1,0.9999999999999998
+We got better terms on what we owe.,0,1,0.5999999999999999
+Jump through now.,0,1,0.9999999999999998
+People like it.,0,1,0.5999999999999999
+The apprenticeship pipeline was created.,1,1,0.9999999999999998
+Expectations are high.,0,1,0.9999999999999998
+We've become something new.,0,0,0.3999999999999999
+We delivered,0,1,0.9999999999999998
+Direction is certain.,1,1,0.9999999999999998
+The compliance training is mandatory.,1,1,0.9999999999999998
+Please find attached the document for your review at your earliest convenience.,1,1,0.9999999999999998
+The energy is boundless.,1,1,0.9999999999999998
+People think we're smart now.,0,0,0.8
+We're acting like we already won.,0,0,0.8
+People with money trust us more.,0,1,0.9999999999999998
+We know everything about this.,0,1,0.9999999999999998
+The adventure persists.,1,1,0.9999999999999998
+The plan worked.,1,1,0.9999999999999998
+The move is made.,1,1,0.5999999999999999
+We didn't screw anything up.,0,0,0.8
+Practicing mindfulness reduces stress levels.,1,1,0.9999999999999998
+Critics are raving.,0,1,0.9999999999999998
+You gotta wash your clothes often or they’ll stink.,0,1,0.5999999999999999
+Your security clearance has been suspended.,1,1,0.9999999999999998
+Your expense report contains irregularities.,1,1,0.9999999999999998
+Omega-3 fatty acids are essential for brain health.,1,1,0.9999999999999998
+Targets were hit,1,1,0.9999999999999998
+Investor confidence grew.,1,1,0.9999999999999998
+We're going for it.,0,0,0.8
+The guarantee is ironclad.,1,1,0.9999999999999998
+Cleaning pet hair frequently prevents allergies and mess.,1,1,0.9999999999999998
+Key performance indicators show improvement,1,1,0.9999999999999998
+Systems crashed when we needed them most.,0,1,0.9999999999999998
+Mixing darks and whites is a disaster.,0,1,0.9999999999999998
+The path becomes clear.,0,1,0.9999999999999998
+I clean up my posts so I don’t look bad later.,0,1,0.5999999999999999
+The truth emerges.,1,1,0.9999999999999998
+Payoff comes.,1,1,0.9999999999999998
+The insurance claim was denied.,1,1,0.9999999999999998
+The discrepancy was attributed to human error.,1,1,0.9999999999999998
+The variance exceeds acceptable thresholds.,1,1,0.9999999999999998
+One weirdo ruined the data.,0,1,0.9999999999999998
+We're affecting more people.,0,0,0.3999999999999999
+We're gonna make bank.,0,0,0.8
+Oversharing online can be risky.,0,1,0.9999999999999998
+Structured breaks can help refresh focus and creativity.,1,1,0.9999999999999998
+The work was straight-up bad.,0,1,0.9999999999999998
+Using time-tracking tools can provide insights into productivity.,1,1,0.9999999999999998
+The potential is unlimited.,1,1,0.9999999999999998
+We weren't watching spending,0,0,0.3999999999999999
+Key personnel departed abruptly.,1,1,0.9999999999999998
+No new hires—period.,0,1,0.9999999999999998
+Look what we got.,0,1,0.5999999999999999
+The cafeteria options were diversified.,1,1,0.9999999999999998
+We trust the process.,0,1,0.9999999999999998
+The door opens.,1,1,0.5999999999999999
+The reality sets in.,1,1,0.5999999999999999
+Spinach and kale are packed with good stuff for your body.,0,1,0.9999999999999998
+Taking short breaks during work enhances concentration.,1,1,0.9999999999999998
+Realignment made sense.,1,1,0.9999999999999998
+Expenditure was controlled,1,1,0.9999999999999998
+Working from home can feel pretty lonely sometimes.,0,1,0.9999999999999998
+Doc said drink more water.,0,1,0.9999999999999998
+The values were demonstrated.,1,1,0.9999999999999998
+The hunger is real.,0,1,0.5999999999999999
+The bar is raised.,1,1,0.5999999999999999
+We made way more than planned.,0,1,0.5999999999999999
+Our reputation spreads.,0,1,0.9999999999999998
+Greatness is expected.,1,1,0.9999999999999998
+Record is broken.,1,1,0.9999999999999998
+"If I don’t plan ahead, I end up rushing at the last second.",0,1,0.5999999999999999
+"We’re making money, but not for long.",0,1,0.5999999999999999
+Having a pet means making sure they’re happy and healthy.,0,1,0.5999999999999999
+Businesses are using cloud tech to make remote work smoother.,0,1,0.9999999999999998
+I can talk to anyone anywhere thanks to social media.,0,1,0.9999999999999998
+We belong here.,0,1,0.5999999999999999
+Checking the expiration date prevents food waste.,1,1,0.9999999999999998
+Practicing mindfulness can improve time awareness.,1,1,0.9999999999999998
+Our test model broke immediately.,0,1,0.9999999999999998
+Method is creative.,1,1,0.9999999999999998
+Verifying information before sharing prevents misinformation.,1,1,0.9999999999999998
+That awkward retreat actually helped.,0,1,0.9999999999999998
+Standards were set,0,1,0.9999999999999998
+The workaround is inelegant.,1,1,0.9999999999999998
+The foundation is set.,1,1,0.9999999999999998
+Targets drove us,0,1,0.9999999999999998
+Having a set work spot at home helps you focus better.,0,1,0.5999999999999999
+Opponents concede.,1,1,0.9999999999999998
+The sacrifice is valued.,1,1,0.9999999999999998
+The numbers don't lie.,0,0,0.8
+Bringing my own food is cheaper and better for me.,0,1,0.5999999999999999
+A quick walk every day is good for me.,0,1,0.5999999999999999
+We keep pushing.,0,1,0.9999999999999998
+Jurisdictional complications arose during implementation.,1,1,0.9999999999999998
+The communication workshop was valuable.,1,1,0.9999999999999998
+The future is now.,1,1,0.5999999999999999
+Your brain fights itself when choosing.,0,1,0.9999999999999998
+Using reusable bags helps reduce environmental waste.,1,1,0.9999999999999998
+The position is dominant.,1,1,0.9999999999999998
+Our position is safe.,0,1,0.9999999999999998
+Everything points to this.,0,1,0.9999999999999998
+The finish line approaches.,1,1,0.9999999999999998
+The acquisition terms are being renegotiated,1,1,0.9999999999999998
+The numbers look good.,0,1,0.9999999999999998
+The capability is proven.,1,1,0.9999999999999998
+The hype is real.,0,1,0.5999999999999999
+The adventure persists.,1,1,0.9999999999999998
+The contribution is acknowledged.,1,1,0.9999999999999998
+We’re out of cash—time to cut costs.,0,1,0.5999999999999999
+Excessive notifications can be distracting.,1,1,0.9999999999999998
+We own this market.,0,1,0.5999999999999999
+We've got everything going for us.,0,0,0.8
+We’re running out of stock.,0,1,0.5999999999999999
+The foundation is poured.,1,1,0.9999999999999998
+Logistics worked,1,1,0.9999999999999998
+Fake pills worked because patients believed.,0,1,0.9999999999999998
+The hustle doesn't stop.,1,0,0.8
+The opportunity knocks.,1,1,0.9999999999999998
+Effective communication prevents wasted time in misunderstandings.,1,1,0.9999999999999998
+Nothing can get in our way.,0,1,0.5999999999999999
+Value was added at every stage.,1,1,0.9999999999999998
+I am writing to formally invite you to my wedding.,1,1,0.5999999999999999
+Our position is safe.,0,1,0.9999999999999998
+The search continues.,0,1,0.9999999999999998
+Everyone's pumped.,0,0,0.3999999999999999
+Replacing sugary drinks with water can promote better hydration.,1,1,0.9999999999999998
+Nobody comes close to us.,0,1,0.5999999999999999
+Now there's yoga at lunch.,0,0,0.8
+The pressure builds.,1,1,0.9999999999999998
+Fancy lights help you see in the dark.,0,1,0.5999999999999999
+The strategy is sound.,1,1,0.9999999999999998
+It spies on you to get smarter.,0,1,0.5999999999999999
+Working from home is way more common now because tech has improved a lot.,0,1,0.9999999999999998
+They made the 401k better.,0,1,0.9999999999999998
+We're late filing the money reports again.,0,0,0.3999999999999999
+We did what we said we would.,0,1,0.5999999999999999
+Nothing will stop us.,0,1,0.9999999999999998
+Others will follow our lead.,0,1,0.9999999999999998
+On we go.,0,1,0.5999999999999999
+Nuts and dried fruits are excellent snacks with high nutritional value.,1,1,0.9999999999999998
+"Hurry up and deal with this, thanks!",0,1,0.5999999999999999
+We got the gold.,0,1,0.5999999999999999
+The yacht’s crew is unionized.,1,1,0.5999999999999999
+The journey continues.,1,1,0.9999999999999998
+The IPO was oversubscribed significantly.,1,1,0.9999999999999998
+Winning feels amazing.,0,1,0.9999999999999998
+No more cigarettes at work.,0,1,0.9999999999999998
+The prototype failed stress testing catastrophically.,1,1,0.9999999999999998
+We spent too much,0,1,0.5999999999999999
+The idea spreads.,1,1,0.9999999999999998
+The story continues.,0,1,0.9999999999999998
+Our code is a ticking time bomb.,0,1,0.5999999999999999
+Needs decreased,1,1,0.9999999999999998
+Workforce morale declined,1,1,0.9999999999999998
+Shipping is still messed up,0,1,0.9999999999999998
+The indemnity clause protects both parties.,1,1,0.9999999999999998
+The culture improved.,1,1,0.9999999999999998
+Maintaining a healthy diet reduces the risk of chronic diseases.,1,1,0.9999999999999998
+Jump through now.,0,1,0.9999999999999998
+Liquidity ratios deteriorated,1,1,0.9999999999999998
+The value compounds.,1,1,0.9999999999999998
+Sustainability metrics were tracked.,1,1,0.9999999999999998
+"We’re running out of cash, fast.",0,1,0.5999999999999999
+The manufacturing defect rate is unacceptable.,1,1,0.9999999999999998
+The values were demonstrated.,1,1,0.9999999999999998
+The engine purrs.,1,1,0.9999999999999998
+Capital expenditures were deferred,1,1,0.9999999999999998
+The firmware is incompatible with legacy hardware.,1,1,0.9999999999999998
+Using the correct detergent helps preserve clothing quality.,1,1,0.9999999999999998
+Using the stairs helps me get in some exercise.,0,1,0.9999999999999998
+Keeping company info safe while working remotely is super important.,0,1,0.9999999999999998
+Trade secrets were protected.,1,1,0.9999999999999998
+It doesn't feel like a prison anymore.,0,0,0.8
+Stocks are wild right now.,0,1,0.9999999999999998
+The inspectors found some shady stuff.,0,1,0.9999999999999998
+We can't get what we need,0,0,0.8
+The mentorship initiative launched.,1,1,0.9999999999999998
+Laundry should be done frequently to maintain hygiene and comfort.,1,1,0.9999999999999998
+Your order’s finally on the way.,0,1,0.5999999999999999
+Everyone was pumped.,0,1,0.9999999999999998
+The passion burns.,1,1,0.9999999999999998
+New version broke.,0,1,0.9999999999999998
+More people hear.,0,1,0.9999999999999998
+The lightbulb goes off.,0,1,0.9999999999999998
+They stole our people.,0,1,0.9999999999999998
+The way is open.,0,1,0.5999999999999999
+Donating unused items helps those in need.,1,1,0.9999999999999998
+The champagne flows.,1,1,0.9999999999999998
+We're keeping it going.,0,0,0.8
+The software update contains critical fixes.,1,1,0.9999999999999998
+The implementation is perfect.,1,1,0.9999999999999998
+Initiatives launched,1,1,0.9999999999999998
+The influence grows.,1,1,0.9999999999999998
+Verifying information before sharing prevents misinformation.,1,1,0.9999999999999998
+It's all adding up.,0,0,0.8
+You get judged once a year.,0,1,0.5999999999999999
+We own this now.,0,1,0.5999999999999999
+Please ensure all necessary documents are submitted by Friday.,1,1,0.9999999999999998
+They copied us.,0,1,0.5999999999999999
+The benchmark is reset.,1,1,0.9999999999999998
+Leave some extra time between tasks in case things take longer.,0,1,0.9999999999999998
+Expenditure decreased,1,1,0.9999999999999998
+We collected lots of stuff for charity.,0,1,0.9999999999999998
+We're ready to build.,0,0,0.8
+The morale was high.,1,1,0.5999999999999999
+The whistleblower complaint was substantiated.,1,1,0.9999999999999998
+Projects started smoothly.,0,1,0.9999999999999998
+We can talk about it after breakfast.,0,1,0.9999999999999998
+Network expands.,1,1,0.9999999999999998
+My glasses keep my eyes from getting tired.,0,1,0.9999999999999998
+Drinking a glass of water first thing in the morning hydrates the body.,1,1,0.9999999999999998
+Let others help you so you don’t have to do everything.,0,1,0.5999999999999999
+This is how we'll attack.,0,0,0.8
+Every team needs to justify their spending again.,0,1,0.9999999999999998
+The hustle doesn't stop.,1,0,0.8
+I am following up regarding your inquiry from last week.,1,1,0.9999999999999998
+The hunger is real.,0,1,0.5999999999999999
+Engaging with constructive criticism can enhance content quality.,1,1,0.9999999999999998
+"Due to unforeseen circumstances, the event has been postponed.",1,1,0.9999999999999998
+It actually happened like we wanted.,0,1,0.9999999999999998
+The clarity comes.,1,1,0.9999999999999998
+Things slipped through,0,1,0.9999999999999998
+Your test results look better!,0,1,0.9999999999999998
+People think better of us now.,0,1,0.5999999999999999
+The concept takes shape.,1,1,0.9999999999999998
+You get more time off for babies.,0,1,0.5999999999999999
+The growth is sustainable.,1,1,0.9999999999999998
+The absenteeism was reduced.,1,1,0.9999999999999998
+Raises frozen.,1,1,0.9999999999999998
+The controls were effective.,1,1,0.9999999999999998
+The client’s freaking out about deadlines.,0,1,0.9999999999999998
+Streak extends.,1,1,0.9999999999999998
+You still can't talk about this.,0,0,0.8
+The wheels turn.,1,1,0.9999999999999998
+The discrepancy in the data warrants further investigation.,1,1,0.9999999999999998
+The intellectual property was infringed.,1,1,0.9999999999999998
+The change is transformative.,1,1,0.9999999999999998
+Vision was realized.,1,1,0.9999999999999998
+They changed the requirements last second.,0,1,0.9999999999999998
+Our whole company is worth more now.,0,1,0.9999999999999998
+Value increased,1,1,0.9999999999999998
+Everyone's screaming with joy.,0,0,0.3999999999999999
+Too much fake sugar might not be great for you.,0,1,0.5999999999999999
+We know everything about this.,0,1,0.9999999999999998
+We're gonna make bank.,0,0,0.8
+Expenditure was controlled tightly.,1,1,0.9999999999999998
+Social media allows businesses to connect with customers directly.,1,1,0.9999999999999998
+The idea spreads.,1,1,0.9999999999999998
+We wrote up what went wrong.,0,1,0.5999999999999999
+I try to swap chips for something healthier.,0,1,0.9999999999999998
+Decisions were right,0,1,0.9999999999999998
+The plagiarism detection software flagged your submission.,1,1,0.9999999999999998
+Hiring succeeded,1,1,0.9999999999999998
+Operational costs have ballooned unexpectedly.,1,1,0.9999999999999998
+Working from home has totally changed how we do jobs.,0,1,0.9999999999999998
+The numbers don't lie.,0,0,0.8
+Pig parts worked in a human.,0,1,0.5999999999999999
+The method is set.,1,1,0.5999999999999999
+We avoided disaster.,0,1,0.9999999999999998
+People are making it bigger.,0,1,0.9999999999999998
+We own this now.,0,1,0.5999999999999999
+Cost savings were realized.,1,1,0.9999999999999998
+Everyone voted yes—shocker.,0,1,0.9999999999999998
+We're making our mark.,0,0,0.8
+How people act online affects friendships.,0,1,0.9999999999999998
+Forward is the only way.,0,1,0.5999999999999999
+The clinical trial showed promise.,1,1,0.9999999999999998
+Performance peaked this cycle.,1,1,0.9999999999999998
+Old devices can’t run the new update.,0,1,0.5999999999999999
+We convinced them.,0,1,0.9999999999999998
+The latest version is way more secure.,0,1,0.9999999999999998
+We worked out the firing money.,0,1,0.9999999999999998
+The approach is unique.,1,1,0.9999999999999998
+Don’t pile your plate too high—it’s better to eat less.,0,1,0.5999999999999999
+Critics are raving.,0,1,0.9999999999999998
+I set up posts so I don’t forget to upload.,0,1,0.5999999999999999
+The impact widens.,1,1,0.9999999999999998
+This service sucks—I want my money back.,0,1,0.9999999999999998
+The numbers look good.,0,1,0.9999999999999998
+All eyes are on us.,0,1,0.5999999999999999
+One-time costs blew up the budget.,0,1,0.9999999999999998
+The foundation is poured.,1,1,0.9999999999999998
+The answer is clear.,1,1,0.5999999999999999
+The new thing isn't coming out.,0,0,0.8
+We dodged a bullet.,0,1,0.5999999999999999
+Relationships solidify.,1,1,0.9999999999999998
+"Sorry, can’t make it this time!",0,1,0.5999999999999999
+We bounced back fast.,0,1,0.9999999999999998
+The trademark application was approved.,1,1,0.9999999999999998
+We own this - nobody else can use it.,0,1,0.5999999999999999
+Completing high-priority tasks in the morning can increase efficiency.,1,1,0.9999999999999998
+Fiscal year-end reconciliation remains pending approval.,1,1,0.9999999999999998
+Door opens.,1,1,0.9999999999999998
+Everyone else has to step up.,0,1,0.5999999999999999
+Everyone's in a good mood.,0,0,0.8
+The geofencing feature is now active.,1,1,0.9999999999999998
+Everyone's pumped.,0,0,0.3999999999999999
+The gears mesh.,1,1,0.5999999999999999
+Blocking harmful accounts can enhance online safety.,1,1,0.9999999999999998
+People listen to us.,0,1,0.5999999999999999
+Everything else disappears.,0,1,0.9999999999999998
+We can buy our own stock now.,0,1,0.5999999999999999
+A good caption gets more likes.,0,1,0.9999999999999998
+The greatness is expected.,1,1,0.9999999999999998
+The proof is in the pudding.,0,1,0.5999999999999999
+We’re behind on gov paperwork—again.,0,1,0.9999999999999998
+Ergonomic assessments were completed.,1,1,0.9999999999999998
+"Finally, people notice.",0,1,0.9999999999999998
+Professors finally agreed on new courses.,0,1,0.9999999999999998
+The concentration deepens.,1,1,0.9999999999999998
+The victory is collective.,1,1,0.9999999999999998
+Everyone loved the results.,0,1,0.9999999999999998
+I always rinse my veggies first.,0,1,0.9999999999999998
+They know what we gave up.,0,1,0.5999999999999999
+Standards were super helpful.,0,1,0.9999999999999998
+We fixed what was broken.,0,1,0.5999999999999999
+The wait is over.,1,1,0.5999999999999999
+The arbitration clause is binding.,1,1,0.9999999999999998
+The change takes hold.,1,1,0.9999999999999998
+One weird number ruins the average.,0,1,0.9999999999999998
+It's happening.,0,0,0.3999999999999999
+The diversity initiative launched.,1,1,0.9999999999999998
+We didn't screw anything up.,0,0,0.8
+The value is clear.,1,1,0.5999999999999999
+The trade secrets were protected.,1,1,0.9999999999999998
+We're not wasting as much water.,0,0,0.8
+The debt was refinanced advantageously.,1,1,0.9999999999999998
+Someone's questioning your spending.,0,0,0.3999999999999999
+The export license was revoked.,1,1,0.9999999999999998
+Cooking meals at home promotes healthier eating habits.,1,1,0.9999999999999998
+Brown bread is way healthier than white bread.,0,1,0.9999999999999998
+The value compounds.,1,1,0.9999999999999998
+The buyout conversation stopped moving.,0,1,0.9999999999999998
+The push is on.,1,1,0.5999999999999999
+The money detectives spotted problems.,0,1,0.9999999999999998
+Yield management optimizes revenue.,1,1,0.9999999999999998
+No new employees—we’re broke.,0,1,0.9999999999999998
+The search continues.,0,1,0.9999999999999998
+Conclusion is obvious.,1,1,0.9999999999999998
+The experience is deep.,1,1,0.9999999999999998
+Big things are coming.,0,1,0.9999999999999998
+The vision crystallizes.,1,1,0.9999999999999998
+Too many alerts annoy me.,0,1,0.5999999999999999
+Establishing a routine helps create consistency and structure.,1,1,0.9999999999999998
+I save important numbers just in case something happens.,0,1,0.9999999999999998
+Who can top this?,0,1,0.5999999999999999
+Consuming excessive processed foods may lead to health complications.,1,1,0.9999999999999998
+The competition falters.,1,1,0.9999999999999998
+It's getting crazy.,0,0,0.8
+Good things keep adding up.,0,1,0.9999999999999998
+A book helps me wind down at night.,0,1,0.5999999999999999
+You have to sit through this boring training.,0,1,0.9999999999999998
+We know where we're going.,0,0,0.8
+More people listen to us.,0,1,0.5999999999999999
+The acquisition terms were renegotiated at the eleventh hour.,1,1,0.9999999999999998
+Expenditure approval workflows were bypassed.,1,1,0.9999999999999998
+"Fix this ASAP, or I’m out.",0,1,0.5999999999999999
+Unfollowing negative influences can improve mental well-being.,1,1,0.9999999999999998
+Fiscal projections appear overly optimistic.,1,1,0.9999999999999998
+Culture improved.,1,1,0.9999999999999998
+The expectation is exceeded.,1,1,0.9999999999999998
+The tax strategy was optimized.,1,1,0.9999999999999998
+Utilizing multi-platform strategies expands audience reach.,1,1,0.9999999999999998
+Oversharing online can be risky.,0,1,0.9999999999999998
+Risks were reduced significantly.,1,1,0.9999999999999998
+The noise fades.,1,1,0.9999999999999998
+Short breaks keep you from feeling exhausted.,0,1,0.9999999999999998
+The way is open.,0,1,0.5999999999999999
+Maintaining good posture prevents long-term back problems.,1,1,0.9999999999999998
+It's all making sense now.,0,0,0.8
+The audit was clean and uneventful.,1,1,0.9999999999999998
+We're always getting better.,0,0,0.3999999999999999
+Setting reminders for deadlines prevents last-minute stress.,1,1,0.9999999999999998
+Notice when you work best and plan around that.,0,1,0.9999999999999998
+Too much salt isn’t good for your heart.,0,1,0.5999999999999999
+More people to fix your computer.,0,1,0.9999999999999998
+Think ahead so you don’t have to rush later.,0,1,0.5999999999999999
+We've got great connections.,0,0,0.3999999999999999
+The due diligence period has expired.,1,1,0.9999999999999998
+The standing is secure.,1,1,0.9999999999999998
+People finally see what we did.,0,1,0.9999999999999998
+Confidential documents were leaked.,1,1,0.9999999999999998
+The green certification was achieved.,1,1,0.9999999999999998
+The performance reviews are annual.,1,1,0.9999999999999998
+The strategy emerges.,1,1,0.9999999999999998
+Human error caused the outage.,1,1,0.9999999999999998
+"If it’s close, I just walk instead of driving.",0,1,0.5999999999999999
+The solution presents.,1,1,0.9999999999999998
+A quick mop keeps the floors from getting sticky.,0,1,0.9999999999999998
+Things are different now.,0,1,0.9999999999999998
+The challenge is accepted.,1,1,0.9999999999999998
+The method is set.,1,1,0.5999999999999999
+The opponents concede.,1,1,0.9999999999999998
+Resolve is firm.,1,1,0.9999999999999998
+Nothing sketchy got through.,0,1,0.9999999999999998
+We're getting known.,0,0,0.3999999999999999
+Expenditures exceeded projections significantly,1,1,0.9999999999999998
+The software update will commence at 10 PM tonight.,1,1,0.9999999999999998
+The value is unbeatable.,1,1,0.9999999999999998
+The mind quiets.,1,1,0.9999999999999998
+We can pivot fast.,0,1,0.5999999999999999
+The test comes.,1,1,0.5999999999999999
+Full speed ahead.,0,1,0.9999999999999998
+The timing is ideal.,1,1,0.5999999999999999
+The network expands.,1,1,0.9999999999999998
+We know we've got this.,0,0,0.8
+The numbers didn't add up,0,0,0.8
+Heads up—the report’s due by Friday!,0,1,0.5999999999999999
+We're acting like we already won.,0,0,0.8
+The case builds.,1,1,0.9999999999999998
+Availability was good,0,1,0.9999999999999998
+The answer appears.,0,1,0.9999999999999998
+You can feel the excitement.,0,1,0.9999999999999998
+Competitors got our info.,0,1,0.9999999999999998
+We can talk about it after 12.,0,1,0.5999999999999999
+We made our numbers.,0,1,0.5999999999999999
+The move is made.,1,1,0.5999999999999999
+Polls and quizzes get more people to comment.,0,1,0.9999999999999998
+This is a total game-changer.,0,1,0.9999999999999998
+Growth accelerated unexpectedly.,1,1,0.9999999999999998
+Promise is fulfilled.,1,1,0.9999999999999998
+The opportunity knocks.,1,1,0.9999999999999998
+The new version patches major problems.,0,1,0.9999999999999998
+Winning feels amazing.,0,1,0.9999999999999998
+The environment was positive.,1,1,0.9999999999999998
+Check the label so you know what you're eating.,0,0,0.8
+We built something lasting.,0,1,0.9999999999999998
+We won't quit.,0,0,0.8
+Sorry if this messes things up for you.,0,1,0.5999999999999999
+Overeating can contribute to weight gain and other health risks.,1,1,0.9999999999999998
+We're beating more competitors.,0,0,0.3999999999999999
+We won't quit.,0,0,0.8
+A good breakfast keeps me from getting hungry too fast.,0,1,0.9999999999999998
+The service rendered was subpar.,1,1,0.9999999999999998
+They admit we're better.,0,0,0.8
+A well-planned grocery list reduces unnecessary spending.,1,1,0.9999999999999998
+Way fewer people quit.,0,1,0.9999999999999998
+There's no doubt about our path.,0,0,0.8
+Your body needs protein to fix itself.,0,1,0.9999999999999998
+The word gets out.,1,1,0.5999999999999999
+Unauthorized access to this network is prohibited.,1,1,0.9999999999999998
+You gotta use 2FA—no way around it.,0,1,0.5999999999999999
+Look how far we've come.,0,0,0.8
+Skip useless meetings and use that time for real work.,0,1,0.9999999999999998
+"If you skip breakfast, you’ll feel sluggish all day.",0,1,0.5999999999999999
+A cleaning plan keeps chores from piling up.,0,1,0.9999999999999998
+Social media marketing enhances brand visibility.,1,1,0.9999999999999998
+Companies should teach workers how to be better at remote jobs.,0,1,0.9999999999999998
+Our way works.,0,1,0.5999999999999999
+Determination is strong.,1,1,0.9999999999999998
+They stole our ideas.,0,1,0.9999999999999998
+The forensic audit uncovered discrepancies.,1,1,0.9999999999999998
+I’m prioritizing my mental well-being.,1,1,0.9999999999999998
+Online groups help me find people who get me.,0,1,0.5999999999999999
+I keep a little cash at home just in case.,0,1,0.5999999999999999
+They're still looking at shady stock moves.,0,0,0.3999999999999999
+People don't totally hate working here.,0,0,0.3999999999999999
+Taking the stairs instead of the elevator increases daily activity.,1,1,0.9999999999999998
+We got way better fast.,0,1,0.5999999999999999
+The work starts.,1,1,0.9999999999999998
+Having a set routine makes life easier.,0,1,0.9999999999999998
+The standing is secure.,1,1,0.9999999999999998
+The path clears.,1,1,0.9999999999999998
+Qualitative insights emerged.,1,1,0.9999999999999998
+An arbitration hearing was scheduled.,1,1,0.9999999999999998
+We're on our way up.,0,0,0.8
+I use reminders so I don’t forget stuff.,0,1,0.5999999999999999
+The innovation pipeline was filled.,1,1,0.9999999999999998
+People are talking about us.,0,1,0.9999999999999998
+Planning your meals helps you eat better.,0,1,0.9999999999999998
+You’ll get paid in about a week.,0,1,0.5999999999999999
+We don't know how this hurts nature.,0,0,0.8
+Check what you did each day to stay on track.,0,1,0.5999999999999999
+They made it easier to complain.,0,1,0.9999999999999998
+Blocking harmful accounts can enhance online safety.,1,1,0.9999999999999998
+Areas were right,0,1,0.9999999999999998
+The z-score indicates statistical significance.,1,1,0.9999999999999998
+They're counting how much we waste.,0,0,0.3999999999999999
+We convinced them.,0,1,0.9999999999999998
+Customer satisfaction increased.,1,1,0.9999999999999998
+The reputation scores improved.,1,1,0.9999999999999998
+I’m trying not to lose it.,0,1,0.5999999999999999
+The liquidity ratios met targets.,1,1,0.9999999999999998
+Identifying time-wasting activities allows for better productivity.,1,1,0.9999999999999998
+The rebirth succeeds.,1,1,0.9999999999999998
+It actually happened like we wanted.,0,1,0.9999999999999998
+Swap soda for water—it’s way healthier.,0,1,0.9999999999999998
+Ensure your device meets the minimum system requirements.,1,1,0.9999999999999998
+I hope this email finds you well.,1,1,0.5999999999999999
+The transformation completes.,1,1,0.9999999999999998
+The proof is in the pudding.,0,1,0.5999999999999999
+Prioritizing tasks ensures that essential activities are completed first.,1,1,0.9999999999999998
+The innovation is disruptive.,1,1,0.9999999999999998
+Jump through now.,0,1,0.9999999999999998
+The dress code was relaxed.,1,1,0.9999999999999998
+Someone hacked into our systems.,0,1,0.9999999999999998
+Figure out what’s wasting your time and cut it out.,0,1,0.5999999999999999
+This changes what's possible.,0,0,0.3999999999999999
+Managing finances responsibly prevents future financial stress.,1,1,0.9999999999999998
+The answer appears.,0,1,0.9999999999999998
+Ensure your software is updated to the latest version.,1,1,0.9999999999999998
+Applause rings.,1,1,0.9999999999999998
+The effort persists.,1,1,0.9999999999999998
+This doesn't waste time or money.,0,0,0.8
+Everyone gets together to hear lies once a month.,0,1,0.9999999999999998
+We've been doing this forever.,0,0,0.3999999999999999
+The achievement is monumental.,1,1,0.9999999999999998
+Innovation is disruptive.,1,1,0.9999999999999998
+The big dream actually happened.,0,1,0.9999999999999998
+We apologize for any inconvenience this may cause.,1,1,0.9999999999999998
+Can y’all keep it down? Some of us sleep!,0,1,0.5999999999999999
+Nothing distracts us.,0,1,0.9999999999999998
+It's getting harder.,0,0,0.3999999999999999
+Hiring resumed,1,1,0.9999999999999998
+We belong here.,0,1,0.5999999999999999
+The rivals retreat.,1,1,0.9999999999999998
+Quality impressed all stakeholders.,1,1,0.9999999999999998
+Benchmarking shows competitive disadvantage,1,1,0.9999999999999998
+The saga unfolds.,1,1,0.9999999999999998
+The door opens.,1,1,0.5999999999999999
+"The legal ""stop it"" letter went out.",0,1,0.5999999999999999
+We did better than anyone thought.,0,1,0.9999999999999998
+Eating protein helps you build muscle.,0,1,0.9999999999999998
+The end is in sight.,0,1,0.5999999999999999
+A big clean-up every season keeps things in check.,0,1,0.9999999999999998
+Always grinding.,0,1,0.9999999999999998
+The paperless initiative succeeded.,1,1,0.9999999999999998
+The acquisition talks have stalled.,1,1,0.9999999999999998
+Regular maintenance of household appliances prolongs their lifespan.,1,1,0.9999999999999998
+Back to the grind.,0,1,0.5999999999999999
+The promise stands.,1,1,0.9999999999999998
+The new thing isn't coming out anytime soon.,0,0,0.8
+Outlook is positive.,1,1,0.9999999999999998
+These numbers are pure fantasy.,0,1,0.9999999999999998
+A smoothie is a way better snack than candy.,0,1,0.5999999999999999
+We're locked in.,0,0,0.8
+We're making a difference.,0,0,0.3999999999999999
+The recall affects all 2023 models.,1,1,0.9999999999999998
+Documentation standards weren't met,1,0,0.3999999999999999
+I keep snacks around so I don’t crash midday.,0,1,0.5999999999999999
+Standing is excellent.,1,1,0.9999999999999998
+Attitude is unstoppable.,1,1,0.9999999999999998
+It's really happening.,0,0,0.3999999999999999
+Twist the lens to make pics brighter/darker.,0,1,0.9999999999999998
+The zookeeper reported the capybara’s escape.,1,1,0.9999999999999998
+The internship program improved.,1,1,0.9999999999999998
+Surprise problems came up,0,1,0.9999999999999998
+I look at the weather so I know what to wear.,0,1,0.5999999999999999
+"If I stay patient, things go way better.",0,1,0.5999999999999999
+I plan my posts so my page stays active.,0,1,0.5999999999999999
+We post more online now.,0,1,0.5999999999999999
+We're always getting better.,0,0,0.3999999999999999
+Nothing slows us down.,0,1,0.9999999999999998
+We can pivot fast.,0,1,0.5999999999999999
+Drinking herbal tea before bed promotes relaxation.,1,1,0.9999999999999998
+The advantage is substantial.,1,1,0.9999999999999998
+The concept takes shape.,1,1,0.9999999999999998
+Knowledge grew,1,1,0.9999999999999998
+Progress continues.,1,1,0.9999999999999998
+The environmental impact study is incomplete.,1,1,0.9999999999999998
+Please remit payment at your earliest convenience.,1,1,0.9999999999999998
+You can't get better than this.,0,0,0.8
+Outside stuff messed with the results.,0,1,0.9999999999999998
+Eyes on the prize.,0,1,0.5999999999999999
+You can wear jeans on Friday—woohoo!,0,1,0.9999999999999998
+The safety protocols were updated.,1,1,0.9999999999999998
+The attitude is unstoppable.,1,1,0.9999999999999998
+They gave more time for proposals.,0,1,0.9999999999999998
+The pursuit is endless.,1,1,0.9999999999999998
+The IRS is checking our books.,0,1,0.5999999999999999
+There's more to lose.,0,0,0.8
+Economists are panicking.,0,1,0.9999999999999998
+Can you let me know if this time works for you?,0,1,0.5999999999999999
+Deadlines missed.,1,1,0.9999999999999998
+You have to sit through this boring training.,0,1,0.9999999999999998
+The advantages stack.,1,1,0.9999999999999998
+Going to bed at a reasonable hour ensures proper rest.,1,1,0.9999999999999998
+People aren’t buying as much.,0,1,0.5999999999999999
+The proof is there.,0,1,0.5999999999999999
+We did what we're here to do.,0,0,0.8
+Wearing blue light glasses reduces eye strain from screens.,1,1,0.9999999999999998
+Vibe was excellent.,1,1,0.9999999999999998
+Doing small tasks immediately prevents clutter.,1,1,0.9999999999999998
+We’ve got backups for our backups.,0,1,0.5999999999999999
+The community outreach program expanded.,1,1,0.9999999999999998
+They finally fixed up the workplace.,0,1,0.9999999999999998
+Arguing online is fine if you’re not rude.,0,1,0.5999999999999999
+The performance improvement plan was implemented.,1,1,0.9999999999999998
+Capital expenditures were deferred indefinitely.,1,1,0.9999999999999998
+You can’t run a business here.,0,1,0.5999999999999999
+There it is.,0,1,0.5999999999999999
+Numbers are slightly less terrible.,0,1,0.9999999999999998
+The mission is clear.,1,1,0.9999999999999998
+They decided it wasn't actually bad.,0,0,0.3999999999999999
+The trial begins.,1,1,0.9999999999999998
+The quality is unmatched.,1,1,0.9999999999999998
+Clear and consistent communication is key to successful remote collaboration.,1,1,0.9999999999999998
+Market capitalization expanded.,1,1,0.9999999999999998
+Companies check their stats to see what works.,0,1,0.9999999999999998
+Assigning specific cleaning days can help distribute household tasks efficiently.,1,1,0.9999999999999998
+"Whole, unprocessed foods provide superior nutritional benefits.",1,1,0.9999999999999998
+Fewer people want to quit now.,0,1,0.5999999999999999
+I use alerts so I don’t miss due dates.,0,1,0.5999999999999999
+We got better deals on borrowed money.,0,1,0.9999999999999998
+This isn't just a fluke.,0,0,0.8
+Sacrifice is valued.,1,1,0.9999999999999998
+Big company changes start soon.,0,1,0.9999999999999998
+The paperwork was sloppy,0,1,0.9999999999999998
+Everyone’s obsessed with no-carbs now.,0,1,0.9999999999999998
+The skills training was mandatory.,1,1,0.9999999999999998
+The non-compete clause is enforceable for 12 months.,1,1,0.9999999999999998
+I would like to file a formal complaint about the service.,1,1,0.9999999999999998
+Everyone agreed on the new system.,0,1,0.9999999999999998
+We know how we'll do this.,0,0,0.8
+The stock options vested.,1,1,0.9999999999999998
