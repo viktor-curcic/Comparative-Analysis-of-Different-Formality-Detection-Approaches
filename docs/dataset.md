@@ -1,6 +1,6 @@
 ## Dataset
 
-- **Source**: GYAFC Corpus + Generated data + Author ideas
+- **Source**: GYAFC Corpus + Generated data + my ideas
 - **Total samples**: 5,500 (50% formal, 50% informal)
 - **Files**:
   - **Raw**: `data/raw/data.txt`
