@@ -11,24 +11,57 @@ from sklearn.metrics import precision_recall_fscore_support, confusion_matrix
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 test_df = pd.read_csv(os.path.join(current_dir, "../../data/processed/test.csv"))
+train_df = pd.read_csv(os.path.join(current_dir, "../../data/processed/train.csv"))
+val_df = pd.read_csv(os.path.join(current_dir, "../../data/processed/val.csv"))
 
-model_path = os.path.join(current_dir, "../../pretrained_models/bart_results/checkpoint-1464")
-tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")  
-model = BartForSequenceClassification.from_pretrained(model_path)
 
-test_encodings = tokenizer(test_df["text"].tolist(), truncation=True, padding=True, max_length=128)
+tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
+model = BartForSequenceClassification.from_pretrained("facebook/bart-large", num_labels=2)
 
-class TestDataset(torch.utils.data.Dataset):
-    def __init__(self, encodings):
+def tokenize_data(texts, labels):
+    encodings = tokenizer(texts, truncation=True, padding=True, max_length=128)
+    return {"input_ids": encodings["input_ids"], "attention_mask": encodings["attention_mask"]}, labels
+
+train_encodings, train_labels = tokenize_data(train_df["text"].tolist(), train_df["label"].tolist())
+val_encodings, val_labels = tokenize_data(val_df["text"].tolist(), val_df["label"].tolist())
+test_encodings, test_labels = tokenize_data(test_df["text"].tolist(), test_df["label"].tolist())
+
+class FormalityDataset(torch.utils.data.Dataset):
+    def __init__(self, encodings, labels):
         self.encodings = encodings
+        self.labels = labels
     def __getitem__(self, idx):
-        return {k: torch.tensor(v[idx]) for k, v in self.encodings.items()}
+        item = {
+            "input_ids": torch.tensor(self.encodings["input_ids"][idx]),
+            "attention_mask": torch.tensor(self.encodings["attention_mask"][idx]),
+            "labels": torch.tensor(self.labels[idx])
+        }
+        return item
     def __len__(self):
-        return len(self.encodings["input_ids"])
+        return len(self.labels)
 
-test_dataset = TestDataset(test_encodings)
+train_dataset = FormalityDataset(train_encodings, train_labels)
+val_dataset = FormalityDataset(val_encodings, val_labels)
+test_dataset = FormalityDataset(test_encodings, test_labels)
 
-trainer = Trainer(model=model)
+training_args = TrainingArguments(
+    num_train_epochs=3,
+    per_device_train_batch_size=8,
+    per_device_eval_batch_size=16,
+    evaluation_strategy="epoch",
+    logging_dir="./logs",
+    seed=42
+)
+
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=train_dataset,
+    eval_dataset=val_dataset,
+)
+
+trainer.train()
+
 predictions = trainer.predict(test_dataset)
 logits = predictions.predictions[0] if isinstance(predictions.predictions, tuple) else predictions.predictions
 y_pred = logits.argmax(-1)
