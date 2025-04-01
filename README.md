@@ -1,6 +1,6 @@
 # Analysis of Formality Detection Approaches
 
-Evaluation of 6 different models/libraries based on how well they differentiate formal from informal text
+Evaluation of 6 different models/libraries based on how well they differentiate formal from informal text and vice versa
 
 ## Prerequisites
 
