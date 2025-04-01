@@ -57,4 +57,4 @@ results_df = test_df.copy()
 results_df["prediction"] = y_pred
 results_df["confidence_formal"] = [pred["scores"][0] for pred in predictions]
 results_df["confidence_informal"] = [pred["scores"][1] for pred in predictions]
-results_df.to_csv("deberta_zero_shot_predictions.csv", index=False)
+results_df.to_csv(os.path.join(current_dir, "../../results/deberta_zero_shot_predictions.csv"), index=False)
