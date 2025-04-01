@@ -45,7 +45,7 @@ val_dataset = FormalityDataset(val_encodings, val_labels)
 test_dataset = FormalityDataset(test_encodings, test_labels)
 
 training_args = TrainingArguments(
-    output_dir = None; #still creates a folder?? doesn't change anything, ignore
+    output_dir = "./bart_results"; #still creates a folder even with None?? doesn't change anything, ignore
     num_train_epochs=3,
     per_device_train_batch_size=8,
     per_device_eval_batch_size=16,
