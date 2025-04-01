@@ -8,6 +8,14 @@ Install requirements
 
 pip install -r requirements.txt
 
+## Pair generation
+
+python scripts/data_processing/pair_generation.py
+
+## Test formation
+
+python scripts/data_processing/test_formation.py
+
 ## Model running
 
 Example:
