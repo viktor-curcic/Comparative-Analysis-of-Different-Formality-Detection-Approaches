@@ -56,4 +56,4 @@ plt.close()
 results_df = test_df.copy()
 results_df["prediction"] = y_pred
 results_df["confidence"] = y_scores
-results_df.to_csv("textblob_predictions.csv", index=False)
+results_df.to_csv(os.path.join(current_dir, "../../results/textblob_predictions.csv"), index=False)
