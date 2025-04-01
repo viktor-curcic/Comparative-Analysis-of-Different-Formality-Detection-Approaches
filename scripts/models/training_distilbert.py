@@ -42,7 +42,7 @@ val_dataset = FormalityDataset(val_encodings, val_labels)
 test_dataset = FormalityDataset(test_encodings, test_labels)
 
 training_args = TrainingArguments(
-    output_dir=None,
+    output_dir=None, #again?? can be ignored
     num_train_epochs=3,
     per_device_train_batch_size=8,
     per_device_eval_batch_size=16,
