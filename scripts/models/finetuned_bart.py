@@ -50,7 +50,7 @@ training_args = TrainingArguments(
     per_device_train_batch_size=8,
     per_device_eval_batch_size=16,
     evaluation_strategy="epoch",
-    logging_dir= None,
+    logging_dir= "./logs",
     seed=42
 )
 
