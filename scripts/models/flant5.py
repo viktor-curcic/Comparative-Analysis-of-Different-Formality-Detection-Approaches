@@ -58,7 +58,7 @@ print("Confusion Matrix:\n", confusion_matrix(y_true, y_pred))
 
 RocCurveDisplay.from_predictions(y_true, y_scores)
 plt.title('ROC Curve')
-plt.savefig('flan_t5_roc.png', bbox_inches='tight')
+plt.savefig(os.path.join(current_dir, "../../results/plots/flant5_roc_curve.png"))
 plt.close()
 
 results_df = test_df.copy()
