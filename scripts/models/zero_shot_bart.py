@@ -26,7 +26,6 @@ classifier = pipeline(
 )
 
 def predict_formality_with_confidence(text):
-    """Returns prediction (0/1) and confidence score for the predicted class"""
     result = classifier(
         text,
         candidate_labels=["informal", "formal"],
@@ -37,7 +36,6 @@ def predict_formality_with_confidence(text):
     return pred, confidence
 
 def batch_predict(texts):
-    """Batch prediction returning both labels and confidence scores"""
     predictions = []
     confidences = []
     for text in texts:
@@ -64,4 +62,4 @@ plt.close()
 results_df = test_df.copy()
 results_df['prediction'] = y_pred
 results_df['confidence_score'] = y_scores
-results_df.to_csv("bart_zero_shot_predictions.csv", index=False)
+results_df.to_csv(os.path.join(current_dir, "../../results/bart_zero_shot_predictions.csv"), index=False)
