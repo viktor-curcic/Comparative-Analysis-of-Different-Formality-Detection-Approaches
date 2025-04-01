@@ -73,4 +73,4 @@ print("Confusion Matrix:\n", confusion_matrix(y_true, y_pred))
 
 results_df = test_df.copy()
 results_df["prediction"] = y_pred
-results_df.to_csv("bart_finetuned_predictions.csv", index=False)
+results_df.to_csv(os.path.join(current_dir, "../../results/bart_finetuned_predictions.csv"), index=False)
