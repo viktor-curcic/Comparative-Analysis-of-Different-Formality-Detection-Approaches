@@ -13,7 +13,6 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 def improved_flant5_classifier(text):
-    """Enhanced classification with contrastive prompting"""
     prompt = f"""Analyze this text's formality level. Choose between:
     A) Formal: Uses proper grammar, complex vocabulary, professional tone
     B) Informal: Casual language, contractions, colloquialisms
@@ -65,4 +64,4 @@ plt.close()
 results_df = test_df.copy()
 results_df["prediction"] = y_pred
 results_df["confidence"] = y_scores
-results_df.to_csv("flant5_predictions.csv", index=False)
+results_df.to_csv(os.path.join(current_dir, "../../results/flant5_predictions.csv"), index=False)
